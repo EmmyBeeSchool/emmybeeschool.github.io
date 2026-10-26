@@ -1,0 +1,557 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fff3cf">
+  <meta name="description" content="Discover numbers 1 to 10 with Emmy the Bee. A cheerful early-learning adventure for little learners and their families.">
+  <title>Emmy's Bee School | Little Numbers, Big Discoveries</title>
+  <link rel="icon" href="assets/images/APP_ICON_EMMY.png.png">
+  <style>
+    :root {
+      --ink: #354525;
+      --green: #287448;
+      --yellow: #ffcf4b;
+      --cream: #fffaf0;
+      --pink: #fff0e9;
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      font-family: "Trebuchet MS", Arial, sans-serif;
+      color: var(--ink);
+      background: var(--cream);
+      line-height: 1.65;
+    }
+
+    a { color: inherit; }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 18px;
+      padding: 14px 6%;
+      background: #fffdf4;
+      box-shadow: 0 3px 15px #60490012;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      flex-wrap: wrap;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      font-size: 1.25rem;
+      font-weight: 900;
+    }
+
+    .brand img {
+      width: 55px;
+      height: 55px;
+      object-fit: contain;
+    }
+
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      font-size: .95rem;
+      font-weight: bold;
+    }
+
+    nav a { text-decoration: none; }
+    nav a:hover { color: var(--green); }
+
+    .hero {
+      background: linear-gradient(155deg, #fff0b7, #f2ffe2 65%, #d8f5ff);
+      padding: 55px 6% 65px;
+    }
+
+    .hero-inner {
+      max-width: 1150px;
+      margin: auto;
+      display: grid;
+      grid-template-columns: 1.1fr 1fr;
+      align-items: center;
+      gap: 38px;
+    }
+
+    .eyebrow {
+      color: #527d38;
+      font-weight: 900;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      font-size: .82rem;
+    }
+
+    h1 {
+      font-size: clamp(2.5rem, 5vw, 4.5rem);
+      line-height: 1.1;
+      margin: 14px 0 20px;
+      color: #35692f;
+    }
+
+    h2 {
+      font-size: clamp(1.8rem, 3.5vw, 2.65rem);
+      line-height: 1.2;
+      color: #346d37;
+      margin-top: 0;
+    }
+
+    .lead { font-size: 1.16rem; }
+
+    .hero-picture {
+      background: #fff;
+      border: 9px solid #fff;
+      border-radius: 28px;
+      box-shadow: 0 18px 40px #43612e30;
+      overflow: hidden;
+      transform: rotate(1.5deg);
+    }
+
+    .hero-picture img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 13px 23px;
+      border: 0;
+      border-radius: 30px;
+      background: var(--yellow);
+      color: #4b3916;
+      font: inherit;
+      font-weight: 900;
+      text-decoration: none;
+      cursor: pointer;
+      box-shadow: 0 5px 0 #d8a92e;
+      margin: 10px 8px 10px 0;
+    }
+
+    .button:hover { filter: brightness(.97); }
+    .button.secondary { background: #d6f3db; box-shadow: 0 5px 0 #9ccaa4; }
+
+    section { padding: 75px 6%; }
+
+    .content {
+      max-width: 1060px;
+      margin: auto;
+    }
+
+    .center { text-align: center; }
+    .center p { max-width: 760px; margin: 0 auto 25px; }
+
+    .story { background: white; }
+    .parents { background: var(--pink); }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 22px;
+      margin-top: 34px;
+    }
+
+    .card {
+      padding: 27px;
+      border-radius: 24px;
+      background: white;
+      box-shadow: 0 8px 24px #2d522012;
+    }
+
+    .card h3 { color: var(--green); margin-top: 0; }
+
+    .parents .card { background: #fffdf8; }
+
+    .notice {
+      background: #fff7d9;
+      border-radius: 22px;
+      padding: 24px;
+      margin-top: 30px;
+    }
+
+    .download {
+      background: linear-gradient(135deg, #d9f5d5, #fff2c6);
+    }
+
+    .sound {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 20;
+      border: 2px solid #fff;
+    }
+
+    footer {
+      background: #28583c;
+      color: white;
+      text-align: center;
+      padding: 35px 6%;
+    }
+
+    footer a { margin: 0 10px; }
+
+    @media (max-width: 780px) {
+      .hero-inner { grid-template-columns: 1fr; }
+      .cards { grid-template-columns: 1fr; }
+      .hero-picture { transform: none; }
+      .header { justify-content: center; }
+      .sound { bottom: 12px; right: 12px; }
+    }
+  </style>
+</head>
+
+<body>
+  <header class="header">
+    <a class="brand" href="index.html">
+      <img src="assets/images/APP_ICON_EMMY.png.png" alt="Emmy the Bee">
+      <span>Emmy's Bee School</span>
+    </a>
+    <nav aria-label="Main navigation">
+      <a href="#our-story">Our Story</a>
+      <a href="#learning">Learning</a>
+      <a href="#parents">For Parents</a>
+      <a href="#download">Get the App</a>
+      <a href="#contact">Contact Us</a>
+    </nav>
+  </header>
+
+  <main>
+<section id="welcome-introduction" style="background:linear-gradient(180deg,#fff8df 0%,#ffffff 100%);padding:65px 20px;">
+  <div style="max-width:920px;margin:0 auto;color:#354525;line-height:1.85;font-family:'Trebuchet MS',Arial,sans-serif;">
+
+    <div style="text-align:center;margin-bottom:42px;">
+      <h1 style="font-size:clamp(36px,6vw,64px);color:#287448;line-height:1.15;margin-bottom:12px;">Emmy's Bee School <img src="assets/images/APP_ICON_EMMY.png.png" alt="Emmy the Bee" style="width:clamp(52px,7vw,86px);height:clamp(52px,7vw,86px);object-fit:contain;vertical-align:middle;margin-left:10px;border-radius:18px;"></h1>
+      <h2 style="font-size:clamp(20px,3vw,30px);color:#53743c;">Little Numbers. Big Discoveries. Happy Little Learners.</h2>
+      <p style="font-size:clamp(19px,2.5vw,25px);font-weight:bold;margin-top:28px;">Every little discovery begins with a little wonder.</p>
+    </div>
+
+    <div style="font-size:18px;">
+      <p>Childhood is filled with magical first moments: the first word, the first step, the first time a child recognizes a number and proudly says, “I know that one!”</p>
+      <p>At Emmy's Bee School, we believe that learning should feel like an adventure, not a lesson.</p>
+      <p>That's why we created a cheerful little world where a friendly bee named Emmy invites young children to explore numbers from 1 to 10 through colorful balloons, playful animals, gentle sounds, and delightful surprises.</p>
+      <p>There are no complicated instructions or stressful tests. Just a welcoming forest, a curious little bee, and the excitement of discovering something new.</p>
+    </div>
+
+    <div style="background:#fff0e9;border-radius:26px;padding:clamp(24px,5vw,46px);margin:50px 0;box-shadow:0 10px 30px rgba(67,97,46,.10);">
+      <h2 style="color:#287448;text-align:center;font-size:clamp(25px,4vw,37px);line-height:1.3;">A Little Adventure for Children. A Little Breathing Room for Parents.</h2>
+      <p>We know that raising a young child is a beautiful journey — but also a busy and sometimes exhausting one.</p>
+      <p>Between preparing meals, tidying the house, and taking care of everyday responsibilities, even a few peaceful minutes can mean a lot.</p>
+      <p>Emmy's Bee School was created with both children and their families in mind.</p>
+      <p>While your little one enjoys a cheerful, age-appropriate introduction to numbers, you can have a few moments to take care of everyday tasks nearby, knowing that screen time has a thoughtful educational purpose.</p>
+      <p style="font-weight:bold;text-align:center;font-size:21px;color:#287448;">Because sometimes, a little help makes a big difference.</p>
+    </div>
+
+    <div style="margin:45px 0;">
+      <h2 style="color:#287448;text-align:center;font-size:34px;">Learning Through Play</h2>
+      <p>With Emmy as their friendly guide, children can:</p>
+      <ul style="padding-left:28px;">
+        <li>Discover and recognize numbers from 1 to 10.</li>
+        <li>Explore colorful balloons and delightful animal characters.</li>
+        <li>Build familiarity with numbers through repetition and playful surprises.</li>
+        <li>Enjoy a gentle, welcoming learning environment.</li>
+        <li>Learn at their own pace, one little discovery at a time.</li>
+      </ul>
+      <p>Designed especially for young beginners, Emmy's Bee School makes early number recognition feel natural, enjoyable, and rewarding.</p>
+    </div>
+
+    <div style="text-align:center;background:#f0f8e9;border-radius:26px;padding:clamp(24px,5vw,45px);margin-top:45px;">
+      <h2 style="color:#287448;font-size:clamp(25px,4vw,35px);">Made for Little Learners. Created with Families in Mind.</h2>
+      <p>We believe the best educational experiences bring together curiosity, kindness, and joy.</p>
+      <p>Emmy's Bee School is our small contribution to those precious early years — a place where learning begins with a smile.</p>
+      <p><strong>For every little learner discovering something new.</strong></p>
+      <p><strong>And for every loving parent who deserves a little moment of calm.</strong></p>
+      <h2 style="color:#287448;margin-top:30px;">Let the learning adventure begin!</h2>
+      <p><em>Come meet Emmy and discover the joy of numbers together.</em></p>
+    </div>
+
+  </div>
+</section>
+    <div class="hero">
+      <div class="hero-inner">
+        <div>
+          <div class="eyebrow">Welcome to Emmy's magical forest</div>
+          <h1>Little Numbers.<br>Big Discoveries.</h1>
+          <p class="lead">
+            Every little discovery begins with a little wonder.
+            Meet Emmy, a friendly bee who makes discovering numbers
+            from 1 to 10 feel like a joyful adventure.
+          </p>
+          <a class="button" href="#our-story">Meet Emmy 🐝</a>
+          <a class="button secondary" href="#download">Explore the Game</a>
+        </div>
+
+        <div class="hero-picture">
+          <img
+            src="assets/images/EMMY_WEBSITE_HOME.png"
+            alt="Original home screen of Emmy's Bee School">
+        </div>
+      </div>
+    </div>
+
+    <section id="our-story" class="story">
+      <div class="content center">
+        <h2>Every Little Discovery Matters</h2>
+        <p>
+          Childhood is filled with magical first moments: the first word,
+          the first step, the first time a child recognizes a number
+          and proudly says, "I know that one!"
+        </p>
+        <p>
+          At Emmy's Bee School, we believe learning should feel
+          like an adventure, not a lesson.
+        </p>
+        <p>
+          That's why we created a cheerful little world of colorful
+          balloons, playful animals, gentle sounds and delightful surprises.
+          No stressful tests. Just a welcoming forest, a curious little
+          bee and the excitement of discovering something new.
+        </p>
+      </div>
+    </section>
+
+    <section id="learning">
+      <div class="content">
+        <div class="center">
+          <h2>Learning Through Play</h2>
+          <p>
+            Designed for young beginners, Emmy's Bee School
+            introduces numbers in a friendly, playful way.
+          </p>
+        </div>
+        <div class="cards">
+          <article class="card">
+            <h3>🎈 Discover Numbers</h3>
+            <p>Explore numbers 1 to 10 with colorful balloons and cheerful surprises.</p>
+          </article>
+          <article class="card">
+            <h3>🐰 Meet Friendly Animals</h3>
+            <p>Enjoy playful animal characters and joyful moments along the way.</p>
+          </article>
+          <article class="card">
+            <h3>🌳 Learn at Your Own Pace</h3>
+            <p>Build familiarity with numbers through gentle repetition and discovery.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="parents" class="parents">
+      <div class="content">
+        <div class="center">
+          <h2>A Little Adventure for Children.<br>A Little Breathing Room for Parents.</h2>
+          <p>
+            Raising a young child is a beautiful journey,
+            but it can also be busy and exhausting.
+          </p>
+          <p>
+            Between preparing meals, tidying the house and caring
+            for your family, even a few peaceful minutes can mean a lot.
+          </p>
+          <p>
+            Emmy's Bee School was created with both children
+            and their families in mind.
+          </p>
+          <p>
+            While your little one enjoys a cheerful introduction
+            to numbers, you can take care of everyday tasks nearby,
+            knowing that screen time has a thoughtful educational purpose.
+          </p>
+          <p><strong>Because sometimes, a little help makes a big difference.</strong></p>
+        </div>
+        <div class="notice">
+          <strong>For parents and caregivers:</strong>
+          Young children still need appropriate adult supervision.
+          Emmy's Bee School is a playful learning activity,
+          not a replacement for parental care.
+        </div>
+      </div>
+    </section>
+
+    <section class="story">
+      <div class="content center">
+        <h2>Made for Little Learners.<br>Created with Families in Mind.</h2>
+        <p>
+          We believe the best educational experiences bring together
+          curiosity, kindness and joy.
+        </p>
+        <p>
+          Emmy's Bee School is our small contribution to those precious
+          early years — a place where learning begins with a smile.
+        </p>
+        <p>
+          <strong>For every little learner discovering something new.<br>
+          And for every loving parent who deserves a little moment of calm.</strong>
+        </p>
+      </div>
+    </section>
+
+    <!-- HOW TO PLAY — PARENTS' SECRET SHORTCUT -->
+<section id="how-to-play" style="background:#fffdf4;">
+  <div class="content center">
+
+    <h2>How to Play 🌼</h2>
+
+    <p>
+      Welcome to Emmy's magical forest!
+      Ring the bell, discover colorful number balloons,
+      and enjoy learning numbers from 1 to 10.
+    </p>
+
+    <h3 style="color:#287448; font-size:1.5rem;">
+      A Little Secret for Parents
+    </h3>
+
+    <p>
+      Need to return to the main menu?
+      Look for the small white flower above and
+      to the left of the tree hollow.
+    </p>
+
+    <div style="
+      position:relative;
+      max-width:900px;
+      margin:30px auto;
+      border:8px solid white;
+      border-radius:24px;
+      overflow:hidden;
+      box-shadow:0 12px 35px #43612e30;
+    ">
+
+      <img
+        src="assets/images/HOW_TO_PLAY_SCENE1.png"
+        alt="Emmy's forest showing the hidden parent shortcut flower"
+        style="display:block;width:100%;height:auto;"
+      >
+
+      <!-- Highlight the upper white flower -->
+      <div style="
+        position:absolute;
+        left:2.2%;
+        top:9%;
+        width:7.5%;
+        aspect-ratio:1;
+        border:4px solid #ffcf4b;
+        border-radius:50%;
+        box-shadow:0 0 0 3px rgba(255,255,255,.9);
+        pointer-events:none;
+      "></div>
+
+      <div style="
+        position:absolute;
+        left:12%;
+        top:5%;
+        background:#ffcf4b;
+        color:#4b3916;
+        padding:7px 12px;
+        border-radius:14px;
+        font-size:clamp(10px,1.7vw,17px);
+        font-weight:900;
+        pointer-events:none;
+      ">
+        🌼 Hold for 3 seconds
+      </div>
+
+    </div>
+
+    <p style="font-size:1.12rem;">
+      <strong>Touch and hold the upper white flower
+      for at least 3 seconds</strong>
+      to return to the game's main menu.
+    </p>
+
+    <p style="color:#607050;">
+      This hidden shortcut helps prevent little explorers
+      from accidentally leaving their adventure.
+    </p>
+
+  </div>
+</section>
+<!-- END HOW TO PLAY -->
+    <section id="download" class="download">
+      <div class="content center">
+        <h2>Let the Learning Adventure Begin!</h2>
+        <p>Come meet Emmy and discover the joy of numbers together.</p>
+        <p>
+          <strong>Free:</strong> Level 1, up to 15 minutes per day.<br>
+          <strong>Premium:</strong> $2.99/month for unlimited play
+          and access to all three levels.
+        </p>
+        <p><strong>App Store and Google Play links coming soon.</strong></p>
+      </div>
+    </section>
+      <section id="contact" style="background:#f0f8e9;padding:55px 20px;text-align:center;scroll-margin-top:90px;">
+      <div style="max-width:800px;margin:0 auto;">
+        <h2 style="color:#287448;font-size:clamp(28px,4vw,38px);">
+          Questions? We're Happy to Help!
+        </h2>
+        <p style="font-size:19px;color:#354525;">
+          Have a question about Emmy's Bee School? Feel free to contact us.
+        </p>
+        <p style="font-size:clamp(19px,3vw,26px);font-weight:bold;">
+          <a href="mailto:support@relaxess.app" style="color:#287448;text-decoration:underline;overflow-wrap:anywhere;">support@relaxess.app</a>
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p><strong>Emmy's Bee School 🐝</strong></p>
+    <p>Little Numbers. Big Discoveries.</p>
+    <p>
+      <a href="privacy/">Privacy Policy</a>
+      <a href="terms/">Terms of Use</a>
+    </p>
+    <p>Created by <strong>NICKSESS Theater</strong></p>
+    <p><a href="mailto:support@relaxess.app?subject=Emmy%27s%20Bee%20School%20Support">Contact Support</a></p>
+    <small>© 2026 NICKSESS Theater. All rights reserved.</small>
+  </footer>
+
+  <audio
+    id="forest-audio"
+    src="assets/audio/SCENE01_FOREST_WATERFALL_AMBIENCE.mp3"
+    loop
+    preload="none">
+  </audio>
+
+  <button
+    id="sound-button"
+    class="button sound"
+    type="button"
+    aria-pressed="false">
+    🔊 Forest Sounds: Off
+  </button>
+
+  <script>
+    const forestAudio = document.getElementById("forest-audio");
+    const soundButton = document.getElementById("sound-button");
+
+    soundButton.addEventListener("click", async () => {
+      if (!forestAudio.paused) {
+        forestAudio.pause();
+        soundButton.textContent = "🔊 Forest Sounds: Off";
+        soundButton.setAttribute("aria-pressed", "false");
+        return;
+      }
+
+      try {
+        await forestAudio.play();
+        soundButton.textContent = "🔇 Forest Sounds: On";
+        soundButton.setAttribute("aria-pressed", "true");
+      } catch (error) {
+        soundButton.textContent = "Sound unavailable";
+      }
+    });
+  </script>
+</body>
+</html>
