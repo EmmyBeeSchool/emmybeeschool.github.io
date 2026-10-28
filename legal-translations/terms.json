@@ -1,0 +1,464 @@
+{
+  "es": {
+    "ui": {
+      "privacy": "Política de privacidad",
+      "terms": "Condiciones de uso",
+      "back": "Volver al inicio",
+      "home": "Inicio",
+      "effective": "Fecha de entrada en vigor: 25 de octubre de 2026",
+      "notice_privacy": "Nuestro compromiso con las familias: Emmy’s Bee School es un juego de aprendizaje temprano para niños pequeños. Procuramos minimizar el tratamiento de datos y ofrecer una experiencia segura y adecuada para su edad.",
+      "notice_terms": "¡Bienvenidos a Emmy’s Bee School! Lea estas Condiciones de uso antes de utilizar la aplicación. Los padres y tutores legales deben revisarlas antes de permitir que un niño juegue."
+    },
+    "sections": [
+      [
+        "Acerca de la aplicación",
+        "Emmy’s Bee School es un juego educativo desarrollado y gestionado por Mykola Kubryakov bajo la marca creativa NICKSESS Theater. Presenta los números del 1 al 10 a niños pequeños mediante actividades animadas."
+      ],
+      [
+        "Aceptación de las condiciones",
+        "Al descargar, acceder o utilizar Emmy’s Bee School, acepta estas Condiciones de uso, conforme a la legislación aplicable. Los padres o tutores legales son responsables de supervisar el uso por parte del menor."
+      ],
+      [
+        "Versión gratuita",
+        "La versión gratuita permite acceder al Nivel 1 durante un máximo de 15 minutos de juego por día natural local. El tiempo disponible se restablece al cambiar el día local. El límite solo se aplica a la versión gratuita; determinadas pantallas fuera del juego activo pueden no contar."
+      ],
+      [
+        "Suscripción Premium",
+        "La suscripción Premium opcional cuesta 2,99 USD al mes. Mientras esté activa, permite jugar sin límite de tiempo y acceder a los tres niveles. El cobro se realiza mediante la cuenta de la tienda correspondiente; antes de comprar, la tienda muestra el precio final, la moneda, los impuestos y las condiciones de pago."
+      ],
+      [
+        "Renovación automática y cancelación",
+        "Premium es una suscripción mensual con renovación automática. Salvo cancelación, se renueva conforme a las condiciones de la tienda. Un padre o titular de la cuenta puede gestionarla o cancelarla desde los ajustes de suscripciones de App Store o Google Play, según dónde se haya comprado. Desinstalar la aplicación no cancela la suscripción. La cancelación normalmente impide futuras renovaciones, pero el acceso puede continuar hasta el final del período ya pagado, sujeto a las normas de la tienda."
+      ],
+      [
+        "Compras y reembolsos",
+        "Los pagos y las solicitudes de reembolso se rigen por las políticas de la tienda correspondiente. No recopilamos directamente datos de tarjetas de pago dentro del juego. Para obtener ayuda con una compra, contacte con la tienda donde la realizó; también puede escribir a nuestro correo de soporte para consultar las funciones de la suscripción."
+      ],
+      [
+        "Restauración de compras",
+        "La función «Restaurar compras» permite recuperar compras activas elegibles asociadas a la cuenta de la tienda. La restauración depende de las reglas de la tienda y de la verificación satisfactoria de la compra."
+      ],
+      [
+        "Padres y niños",
+        "El juego está destinado a niños pequeños bajo supervisión de sus padres o tutores. Los adultos deben gestionar las compras, los ajustes del dispositivo y el acceso a las cuentas de las tiendas. Es una actividad educativa complementaria, no un sustituto de la orientación parental ni de la enseñanza profesional."
+      ],
+      [
+        "Uso permitido",
+        "Concedemos un derecho limitado, personal, no exclusivo e intransferible para usar la aplicación con sus fines educativos previstos, conforme a la ley y a las normas de la plataforma. Se prohíbe redistribuir, vender, modificar o explotar ilegalmente la aplicación o su contenido protegido."
+      ],
+      [
+        "Propiedad intelectual",
+        "Las ilustraciones, personajes, animaciones, arreglos musicales, textos y otros materiales originales de la aplicación están protegidos por las leyes de propiedad intelectual aplicables. Las marcas Emmy’s Bee School y NICKSESS Theater identifican la aplicación y su producción creativa. Los componentes y materiales de terceros siguen sujetos a sus respectivas licencias y derechos."
+      ],
+      [
+        "Disponibilidad y actualizaciones",
+        "Podemos publicar actualizaciones, corregir errores, mejorar funciones o modificarlas. La disponibilidad puede depender de la compatibilidad del dispositivo, la versión del sistema operativo y los servicios de las tiendas."
+      ],
+      [
+        "Exención de garantías",
+        "Procuramos ofrecer una experiencia educativa agradable y fiable. Sin embargo, en la medida permitida por la ley, no garantizamos un funcionamiento ininterrumpido ni resultados educativos concretos. Estas condiciones no excluyen derechos o protecciones que legalmente no puedan excluirse."
+      ],
+      [
+        "Limitación de responsabilidad",
+        "En la medida permitida por la ley, no respondemos de pérdidas indirectas o consecuentes derivadas del uso de la aplicación. Esta cláusula no limita la responsabilidad cuando la ley prohíba dicha limitación."
+      ],
+      [
+        "Privacidad",
+        "La información sobre el tratamiento de datos de la aplicación está disponible en nuestra Política de privacidad."
+      ],
+      [
+        "Cambios en estas condiciones",
+        "Podemos actualizar estas Condiciones de uso por cambios en la aplicación, los servicios o los requisitos legales. Actualizaremos la fecha de entrada en vigor cuando corresponda."
+      ],
+      [
+        "Contacto",
+        "Desarrollador y operador: Mykola Kubryakov. Marca creativa: NICKSESS Theater. Aplicación: Emmy’s Bee School. Correo electrónico: support@relaxess.app."
+      ]
+    ]
+  },
+  "de": {
+    "ui": {
+      "privacy": "Datenschutzerklärung",
+      "terms": "Nutzungsbedingungen",
+      "back": "Zur Startseite",
+      "home": "Startseite",
+      "effective": "Gültig ab: 25. Oktober 2026",
+      "notice_privacy": "Unser Versprechen an Familien: Emmy’s Bee School ist ein Lernspiel für kleine Kinder. Wir bemühen uns, die Datenverarbeitung zu minimieren und ein sicheres, altersgerechtes Lernerlebnis zu bieten.",
+      "notice_terms": "Willkommen bei Emmy’s Bee School! Bitte lesen Sie diese Nutzungsbedingungen vor der Verwendung. Eltern und Erziehungsberechtigte sollten sie prüfen, bevor Kinder das Spiel nutzen."
+    },
+    "sections": [
+      [
+        "Über die Anwendung",
+        "Emmy’s Bee School ist ein Lernspiel, das Mykola Kubryakov unter der Kreativmarke NICKSESS Theater entwickelt und betreibt. Es vermittelt kleinen Kindern die Zahlen von 1 bis 10 durch animierte Lernaktivitäten."
+      ],
+      [
+        "Annahme der Bedingungen",
+        "Durch Herunterladen, Aufrufen oder Verwenden von Emmy’s Bee School stimmen Sie diesen Nutzungsbedingungen im Rahmen des geltenden Rechts zu. Eltern oder Erziehungsberechtigte sind für die Aufsicht über die Nutzung durch Kinder verantwortlich."
+      ],
+      [
+        "Kostenlose Version",
+        "Die kostenlose Version bietet Zugang zu Level 1 für bis zu 15 Minuten Spielzeit je lokalem Kalendertag. Das Kontingent wird beim Wechsel des lokalen Tages zurückgesetzt. Das Tageslimit gilt nur für die kostenlose Version; bestimmte Bildschirme außerhalb des aktiven Spiels werden möglicherweise nicht mitgezählt."
+      ],
+      [
+        "Premium-Abonnement",
+        "Das optionale Premium-Abonnement kostet 2,99 USD pro Monat. Solange es aktiv ist, ermöglicht es unbegrenzte Spielzeit und Zugang zu allen drei Levels. Die Abrechnung erfolgt über das jeweilige App-Store-Konto. Endpreis, Währung, Steuern und Zahlungsbedingungen werden vor dem Kauf im Store angezeigt."
+      ],
+      [
+        "Automatische Verlängerung und Kündigung",
+        "Premium ist ein monatliches Abonnement mit automatischer Verlängerung. Ohne Kündigung verlängert es sich nach den Regeln des jeweiligen Stores. Eltern oder Kontoinhaber können es in den Abonnementeinstellungen des Apple App Store oder von Google Play verwalten oder kündigen. Die Deinstallation beendet ein aktives Abonnement nicht. Eine Kündigung verhindert in der Regel weitere Verlängerungen; der Zugang kann nach Store-Regeln bis zum Ende des bereits bezahlten Zeitraums bestehen bleiben."
+      ],
+      [
+        "Käufe und Erstattungen",
+        "Zahlungen und Erstattungsanträge unterliegen den Richtlinien des jeweiligen App-Stores. Wir erfassen innerhalb des Spiels keine Zahlungskartendaten direkt. Bei Kaufproblemen wenden Sie sich an den Store, über den Sie gekauft haben. Unser Support hilft bei Fragen zu den Abonnementfunktionen."
+      ],
+      [
+        "Käufe wiederherstellen",
+        "Die Funktion „Käufe wiederherstellen“ dient dazu, berechtigte aktive Käufe des jeweiligen Store-Kontos wiederherzustellen. Dies hängt von den Store-Regeln und einer erfolgreichen Kaufprüfung ab."
+      ],
+      [
+        "Eltern und Kinder",
+        "Das Spiel richtet sich an kleine Kinder unter Aufsicht von Eltern oder Erziehungsberechtigten. Erwachsene verwalten Käufe, Geräteeinstellungen und den Zugang zu Store-Konten. Die App ist eine ergänzende Lernaktivität und ersetzt weder elterliche Begleitung noch professionellen Unterricht."
+      ],
+      [
+        "Zulässige Nutzung",
+        "Wir gewähren ein beschränktes, persönliches, nicht ausschließliches und nicht übertragbares Recht, die App für ihre vorgesehenen Lernzwecke im Einklang mit Recht und Plattformregeln zu nutzen. Rechtswidrige Weiterverbreitung, Verkauf, Veränderung oder Verwertung der App oder geschützter Inhalte ist untersagt."
+      ],
+      [
+        "Geistiges Eigentum",
+        "Originalgrafiken, Figuren, Animationen, Musikarrangements, Texte und weitere Originalmaterialien der App sind durch geltendes Immaterialgüterrecht geschützt. Die Bezeichnungen Emmy’s Bee School und NICKSESS Theater kennzeichnen die App und ihre kreative Produktion. Materialien Dritter unterliegen ihren jeweiligen Lizenzen und Rechten."
+      ],
+      [
+        "Verfügbarkeit und Updates",
+        "Wir können Updates bereitstellen, Fehler beheben, Funktionen verbessern oder ändern. Die Verfügbarkeit kann von Gerätekompatibilität, Betriebssystemversion und App-Store-Diensten abhängen."
+      ],
+      [
+        "Haftungsausschluss",
+        "Wir bemühen uns um ein angenehmes und zuverlässiges Lernerlebnis. Soweit gesetzlich zulässig, wird jedoch weder ein unterbrechungsfreier Betrieb noch ein bestimmter Lernerfolg garantiert. Unabdingbare gesetzliche Rechte und Schutzvorschriften bleiben unberührt."
+      ],
+      [
+        "Haftungsbeschränkung",
+        "Soweit gesetzlich zulässig, haften wir nicht für mittelbare Schäden oder Folgeschäden aus der App-Nutzung. Diese Regelung gilt nicht, soweit eine Haftungsbeschränkung gesetzlich unzulässig ist."
+      ],
+      [
+        "Datenschutz",
+        "Informationen zur Datenverarbeitung der App finden Sie in unserer Datenschutzerklärung."
+      ],
+      [
+        "Änderungen dieser Bedingungen",
+        "Wir können diese Nutzungsbedingungen bei Änderungen der App, Dienste oder gesetzlichen Anforderungen aktualisieren. Das Datum des Inkrafttretens wird gegebenenfalls angepasst."
+      ],
+      [
+        "Kontakt",
+        "Entwickler und Betreiber: Mykola Kubryakov. Kreativmarke: NICKSESS Theater. Anwendung: Emmy’s Bee School. E-Mail: support@relaxess.app."
+      ]
+    ]
+  },
+  "fr": {
+    "ui": {
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions d’utilisation",
+      "back": "Retour à l’accueil",
+      "home": "Accueil",
+      "effective": "Date d’entrée en vigueur : 25 octobre 2026",
+      "notice_privacy": "Notre engagement envers les familles : Emmy’s Bee School est un jeu d’éveil destiné aux jeunes enfants. Nous cherchons à limiter le traitement des données et à offrir une expérience sûre et adaptée à leur âge.",
+      "notice_terms": "Bienvenue à Emmy’s Bee School ! Veuillez lire ces Conditions d’utilisation avant d’utiliser l’application. Les parents et représentants légaux doivent les examiner avant de laisser un enfant jouer."
+    },
+    "sections": [
+      [
+        "Présentation de l’application",
+        "Emmy’s Bee School est un jeu éducatif développé et exploité par Mykola Kubryakov sous la marque créative NICKSESS Theater. Il initie les jeunes enfants aux nombres de 1 à 10 au moyen d’activités animées."
+      ],
+      [
+        "Acceptation des conditions",
+        "En téléchargeant, en accédant à ou en utilisant Emmy’s Bee School, vous acceptez ces Conditions d’utilisation, sous réserve du droit applicable. Les parents ou représentants légaux sont responsables de la surveillance de l’utilisation par les enfants."
+      ],
+      [
+        "Version gratuite",
+        "La version gratuite donne accès au niveau 1 pour un maximum de 15 minutes de jeu par jour civil local. Le quota est réinitialisé au changement de jour local. Cette limite ne concerne que la version gratuite ; certains écrans hors du jeu actif peuvent ne pas être comptabilisés."
+      ],
+      [
+        "Abonnement Premium",
+        "L’abonnement Premium facultatif coûte 2,99 USD par mois. Tant qu’il est actif, il offre un temps de jeu illimité et l’accès aux trois niveaux. La facturation passe par le compte de la boutique concernée. Le prix final, la devise, les taxes et les modalités de paiement sont affichés par la boutique avant l’achat."
+      ],
+      [
+        "Renouvellement automatique et résiliation",
+        "Premium est un abonnement mensuel à renouvellement automatique. Sans résiliation, il se renouvelle selon les conditions de la boutique. Un parent ou titulaire du compte peut le gérer ou le résilier dans les réglages d’abonnement de l’App Store d’Apple ou de Google Play, selon le lieu d’achat. Désinstaller l’application ne résilie pas l’abonnement. La résiliation empêche normalement les renouvellements futurs, mais l’accès peut se poursuivre jusqu’à la fin de la période déjà payée, conformément aux règles de la boutique."
+      ],
+      [
+        "Achats et remboursements",
+        "Les paiements et demandes de remboursement sont soumis aux politiques de la boutique concernée. Nous ne collectons pas directement de données de carte bancaire dans le jeu. Pour une aide liée à un achat, contactez la boutique utilisée ; notre assistance peut également expliquer les fonctionnalités de l’abonnement."
+      ],
+      [
+        "Restauration des achats",
+        "La fonction « Restaurer les achats » vise à récupérer les achats actifs admissibles liés au compte de la boutique concernée. La restauration dépend des règles de la boutique et de la vérification réussie de l’achat."
+      ],
+      [
+        "Parents et enfants",
+        "Le jeu est destiné aux jeunes enfants sous la surveillance d’un parent ou représentant légal. Les adultes sont responsables des achats, des réglages de l’appareil et de l’accès aux comptes des boutiques. L’application est une activité éducative complémentaire et ne remplace ni l’accompagnement parental ni l’enseignement professionnel."
+      ],
+      [
+        "Utilisation autorisée",
+        "Nous accordons un droit limité, personnel, non exclusif et non transférable d’utiliser l’application à des fins éducatives prévues, dans le respect de la loi et des règles des plateformes. Il est interdit de redistribuer, vendre, modifier ou exploiter illégalement l’application ou son contenu protégé."
+      ],
+      [
+        "Propriété intellectuelle",
+        "Les illustrations, personnages, animations, arrangements musicaux, textes et autres éléments originaux sont protégés par les lois applicables en matière de propriété intellectuelle. Les noms Emmy’s Bee School et NICKSESS Theater identifient l’application et sa production créative. Les éléments de tiers restent soumis à leurs licences et droits respectifs."
+      ],
+      [
+        "Disponibilité et mises à jour",
+        "Nous pouvons publier des mises à jour, corriger des erreurs, améliorer ou modifier des fonctionnalités. La disponibilité peut dépendre de la compatibilité de l’appareil, du système d’exploitation et des services des boutiques."
+      ],
+      [
+        "Absence de garantie",
+        "Nous cherchons à offrir une expérience éducative agréable et fiable. Toutefois, dans les limites autorisées par la loi, nous ne garantissons ni un fonctionnement ininterrompu ni des résultats éducatifs particuliers. Aucune disposition n’exclut les droits ou protections qui ne peuvent légalement être écartés."
+      ],
+      [
+        "Limitation de responsabilité",
+        "Dans les limites autorisées par la loi, nous ne sommes pas responsables des pertes indirectes ou consécutives liées à l’utilisation de l’application. Cette clause ne limite pas la responsabilité lorsque la loi l’interdit."
+      ],
+      [
+        "Confidentialité",
+        "Les informations sur le traitement des données figurent dans notre Politique de confidentialité."
+      ],
+      [
+        "Modifications des conditions",
+        "Nous pouvons modifier ces Conditions d’utilisation pour tenir compte des changements de l’application, des services ou des exigences légales. La date d’entrée en vigueur sera actualisée si nécessaire."
+      ],
+      [
+        "Contact",
+        "Développeur et exploitant : Mykola Kubryakov. Marque créative : NICKSESS Theater. Application : Emmy’s Bee School. E-mail : support@relaxess.app."
+      ]
+    ]
+  },
+  "pt": {
+    "ui": {
+      "privacy": "Política de Privacidade",
+      "terms": "Termos de Uso",
+      "back": "Voltar ao início",
+      "home": "Início",
+      "effective": "Data de vigência: 25 de outubro de 2026",
+      "notice_privacy": "Nosso compromisso com as famílias: Emmy’s Bee School é um jogo de aprendizagem inicial para crianças pequenas. Buscamos minimizar o processamento de dados e proporcionar uma experiência segura e adequada à idade.",
+      "notice_terms": "Bem-vindo ao Emmy’s Bee School! Leia estes Termos de Uso antes de utilizar o aplicativo. Pais e responsáveis legais devem analisá-los antes de permitir que uma criança jogue."
+    },
+    "sections": [
+      [
+        "Sobre o aplicativo",
+        "Emmy’s Bee School é um jogo educativo desenvolvido e operado por Mykola Kubryakov sob a marca criativa NICKSESS Theater. Apresenta os números de 1 a 10 a crianças pequenas por meio de atividades animadas."
+      ],
+      [
+        "Aceitação dos termos",
+        "Ao baixar, acessar ou utilizar Emmy’s Bee School, você concorda com estes Termos de Uso, sujeito à legislação aplicável. Pais ou responsáveis legais devem supervisionar o uso do aplicativo pelas crianças."
+      ],
+      [
+        "Versão gratuita",
+        "A versão gratuita dá acesso ao Nível 1 por até 15 minutos de jogo por dia do calendário local. O tempo disponível é redefinido quando o dia local muda. O limite diário aplica-se apenas à versão gratuita; certas telas fora da jogabilidade ativa podem não ser contabilizadas."
+      ],
+      [
+        "Assinatura Premium",
+        "A assinatura Premium opcional custa US$ 2,99 por mês. Enquanto estiver ativa, oferece tempo de jogo ilimitado e acesso aos três níveis. A cobrança é feita pela conta da loja correspondente. Preço final, moeda, impostos e condições de pagamento são apresentados pela loja antes da compra."
+      ],
+      [
+        "Renovação automática e cancelamento",
+        "Premium é uma assinatura mensal com renovação automática. Salvo cancelamento, renova-se conforme os termos da loja. Pais ou titulares da conta podem gerenciar ou cancelar a assinatura nas configurações de assinaturas da App Store da Apple ou do Google Play, conforme a loja da compra. Desinstalar o aplicativo não cancela uma assinatura ativa. O cancelamento normalmente impede futuras renovações, mas o acesso pode continuar até o fim do período já pago, conforme as regras da loja."
+      ],
+      [
+        "Compras e reembolsos",
+        "Pagamentos e pedidos de reembolso seguem as políticas da loja correspondente. Não coletamos diretamente dados de cartões de pagamento no jogo. Para ajuda com compras, entre em contato com a loja utilizada; nosso suporte também pode esclarecer as funcionalidades da assinatura."
+      ],
+      [
+        "Restaurar compras",
+        "O recurso «Restaurar compras» destina-se a recuperar compras ativas elegíveis vinculadas à conta da loja. A restauração depende das regras da loja e da verificação bem-sucedida da compra."
+      ],
+      [
+        "Pais e crianças",
+        "O jogo destina-se a crianças pequenas sob supervisão de pais ou responsáveis. Adultos devem gerenciar compras, configurações do dispositivo e acesso às contas das lojas. O aplicativo é uma atividade educativa complementar e não substitui a orientação dos pais nem o ensino profissional."
+      ],
+      [
+        "Uso permitido",
+        "Concedemos um direito limitado, pessoal, não exclusivo e intransferível de usar o aplicativo para os fins educativos previstos, conforme a lei e as regras da plataforma. É proibido redistribuir, vender, modificar ou explorar ilegalmente o aplicativo ou seu conteúdo protegido."
+      ],
+      [
+        "Propriedade intelectual",
+        "Arte original, personagens, animações, arranjos musicais, textos e outros materiais originais são protegidos pelas leis aplicáveis de propriedade intelectual. As marcas Emmy’s Bee School e NICKSESS Theater identificam o aplicativo e sua produção criativa. Componentes e materiais de terceiros permanecem sujeitos às respectivas licenças e direitos."
+      ],
+      [
+        "Disponibilidade e atualizações",
+        "Podemos lançar atualizações, corrigir erros, melhorar ou alterar funcionalidades. A disponibilidade pode depender da compatibilidade do dispositivo, da versão do sistema operacional e dos serviços das lojas."
+      ],
+      [
+        "Isenção de garantias",
+        "Buscamos proporcionar uma experiência educativa agradável e confiável. Contudo, na medida permitida por lei, não garantimos funcionamento ininterrupto nem resultados educacionais específicos. Estes termos não excluem direitos ou proteções que não possam ser legalmente excluídos."
+      ],
+      [
+        "Limitação de responsabilidade",
+        "Na medida permitida por lei, não somos responsáveis por perdas indiretas ou consequenciais decorrentes do uso do aplicativo. Esta disposição não limita a responsabilidade quando a lei proibir tal limitação."
+      ],
+      [
+        "Privacidade",
+        "As informações sobre o tratamento de dados estão disponíveis em nossa Política de Privacidade."
+      ],
+      [
+        "Alterações nestes termos",
+        "Podemos atualizar estes Termos de Uso para refletir mudanças no aplicativo, nos serviços ou nas exigências legais. A data de vigência será atualizada quando apropriado."
+      ],
+      [
+        "Contato",
+        "Desenvolvedor e operador: Mykola Kubryakov. Marca criativa: NICKSESS Theater. Aplicativo: Emmy’s Bee School. E-mail: support@relaxess.app."
+      ]
+    ]
+  },
+  "ja": {
+    "ui": {
+      "privacy": "プライバシーポリシー",
+      "terms": "利用規約",
+      "back": "ホームに戻る",
+      "home": "ホーム",
+      "effective": "発効日：2026年10月25日",
+      "notice_privacy": "ご家族へのお約束：Emmy’s Bee School は幼いお子様向けの早期学習ゲームです。データ処理を最小限に抑え、安全で年齢に適した学習体験の提供を目指します。",
+      "notice_terms": "Emmy’s Bee School へようこそ！アプリを使用する前に本利用規約をお読みください。お子様が遊ぶ前に保護者または法定後見人が内容をご確認ください。"
+    },
+    "sections": [
+      [
+        "アプリについて",
+        "Emmy’s Bee School は、Mykola Kubryakov がクリエイティブブランド NICKSESS Theater のもとで開発・運営する教育ゲームです。アニメーションを使った学習活動を通じて、幼いお子様に1から10までの数字を紹介します。"
+      ],
+      [
+        "利用規約への同意",
+        "Emmy’s Bee School をダウンロード、アクセス、または使用することにより、適用法令に従い本利用規約に同意したものとします。保護者または法定後見人は、お子様の利用を監督する責任があります。"
+      ],
+      [
+        "無料版",
+        "無料版では、現地の暦日ごとに最大15分間、レベル1をプレイできます。利用可能時間は現地の日付が変わるとリセットされます。この制限は無料版のみに適用され、実際のプレイ以外の一部画面は時間に含まれない場合があります。"
+      ],
+      [
+        "Premium サブスクリプション",
+        "任意の Premium サブスクリプションは月額2.99米ドルです。有効期間中はプレイ時間が無制限となり、全3レベルを利用できます。請求は該当するアプリストアのアカウントを通じて行われます。最終価格、通貨、税金、支払条件は購入前にストアに表示されます。"
+      ],
+      [
+        "自動更新と解約",
+        "Premium は自動更新される月額サブスクリプションです。解約しない限り、該当するストアの条件に従って更新されます。保護者またはアカウント所有者は、購入した Apple App Store または Google Play のサブスクリプション設定から管理・解約できます。アプリをアンインストールしても有効なサブスクリプションは解約されません。通常、解約すると次回以降の更新は停止しますが、ストアの規則に従い、支払い済み期間の終了まで利用できる場合があります。"
+      ],
+      [
+        "購入と返金",
+        "支払いと返金申請には該当するアプリストアの方針が適用されます。ゲーム内でカード情報を直接収集することはありません。購入に関する支援は購入元のストアにお問い合わせください。サブスクリプションの機能については当方のサポートにもお問い合わせいただけます。"
+      ],
+      [
+        "購入の復元",
+        "「購入を復元」機能は、該当するストアアカウントに紐づく対象の有効な購入を復元するためのものです。復元はストアの規則および購入の確認が成功することを条件とします。"
+      ],
+      [
+        "保護者とお子様",
+        "本アプリは保護者の監督のもとで幼いお子様が利用することを想定しています。購入、端末設定、ストアアカウントへのアクセスは大人が管理してください。本アプリは補助的な教育活動であり、保護者の指導や専門的な教育に代わるものではありません。"
+      ],
+      [
+        "許可される利用",
+        "適用法令とプラットフォームの規則に従い、意図された教育目的で本アプリを利用するための限定的、個人的、非独占的、譲渡不能な権利を付与します。アプリまたは保護されたコンテンツを違法に再配布、販売、改変、利用することは禁止します。"
+      ],
+      [
+        "知的財産",
+        "本アプリ独自のイラスト、キャラクター、アニメーション、音楽アレンジ、文章その他の制作物は、適用される知的財産法によって保護されます。Emmy’s Bee School と NICKSESS Theater の名称はアプリとその創作活動を識別するものです。第三者の素材にはそれぞれのライセンスと権利が適用されます。"
+      ],
+      [
+        "提供状況と更新",
+        "当方は更新の公開、不具合の修正、機能の改善または変更を行う場合があります。利用可否は端末の互換性、OS のバージョン、ストアのサービスに左右される場合があります。"
+      ],
+      [
+        "免責事項",
+        "楽しく信頼できる教育体験の提供に努めます。ただし、適用法令が許す範囲で、中断のない動作や特定の教育成果を保証するものではありません。本規約は法律上排除できない権利や保護を排除しません。"
+      ],
+      [
+        "責任の制限",
+        "適用法令が許す範囲で、アプリの利用から生じる間接的損失または結果的損失について責任を負いません。法律で禁止される場合、この責任制限は適用されません。"
+      ],
+      [
+        "プライバシー",
+        "アプリによるデータの取り扱いについては、プライバシーポリシーをご覧ください。"
+      ],
+      [
+        "本規約の変更",
+        "アプリ、サービス、法的要件の変更を反映するため、本利用規約を更新する場合があります。必要に応じて発効日を更新します。"
+      ],
+      [
+        "お問い合わせ",
+        "開発者・運営者：Mykola Kubryakov。クリエイティブブランド：NICKSESS Theater。アプリ：Emmy’s Bee School。メール：support@relaxess.app。"
+      ]
+    ]
+  },
+  "zh": {
+    "ui": {
+      "privacy": "隐私政策",
+      "terms": "使用条款",
+      "back": "返回首页",
+      "home": "首页",
+      "effective": "生效日期：2026年10月25日",
+      "notice_privacy": "我们对家庭的承诺：Emmy’s Bee School 是一款面向幼儿的早期学习游戏。我们努力减少数据处理，提供安全且适合儿童年龄的学习体验。",
+      "notice_terms": "欢迎使用 Emmy’s Bee School！使用应用前请阅读本使用条款。家长或法定监护人应在允许儿童玩游戏前审阅这些条款。"
+    },
+    "sections": [
+      [
+        "关于应用",
+        "Emmy’s Bee School 是由 Mykola Kubryakov 以创意品牌 NICKSESS Theater 开发和运营的教育游戏。通过动画学习活动，帮助幼儿认识1到10的数字。"
+      ],
+      [
+        "接受条款",
+        "下载、访问或使用 Emmy’s Bee School，即表示您在适用法律允许的范围内同意本使用条款。家长或法定监护人负责监督儿童使用本应用。"
+      ],
+      [
+        "免费版",
+        "免费版允许用户按当地日历日每天最多游玩第1关15分钟。当地日期变化后，时间额度重置。每日限制仅适用于免费版；某些非实际游戏画面可能不计入额度。"
+      ],
+      [
+        "Premium 订阅",
+        "可选的 Premium 订阅价格为每月2.99美元。订阅有效期间可不限时游戏，并访问全部三个关卡。费用通过相应应用商店账户收取。最终价格、货币、税费和支付条款将在购买前由商店显示。"
+      ],
+      [
+        "自动续订与取消",
+        "Premium 为自动续订的月度订阅。除非取消，否则将按相应商店的条款续订。家长或账户持有人可在购买所用的 Apple App Store 或 Google Play 的订阅设置中管理或取消订阅。卸载应用不会自动取消有效订阅。取消通常会阻止未来续订，但根据商店规则，已付费周期结束前可能仍可继续使用。"
+      ],
+      [
+        "购买与退款",
+        "付款和退款申请依照相应应用商店的政策处理。我们不会在游戏中直接收集银行卡信息。如需购买协助，请联系购买所用的商店；您也可以通过支持邮箱咨询订阅功能。"
+      ],
+      [
+        "恢复购买",
+        "“恢复购买”功能旨在恢复与相应应用商店账户关联且符合条件的有效购买。恢复取决于商店规则及购买验证是否成功。"
+      ],
+      [
+        "家长与儿童",
+        "本应用面向在家长或监护人监督下使用的幼儿。成年人负责管理购买、设备设置以及应用商店账户访问。本应用仅作为辅助教育活动，不能代替家长指导或专业教学。"
+      ],
+      [
+        "允许的使用",
+        "在遵守适用法律和平台规则的前提下，我们授予用户有限的、个人的、非独占且不可转让的权利，仅将本应用用于预期的教育目的。不得非法再分发、出售、修改或利用本应用及其受保护内容。"
+      ],
+      [
+        "知识产权",
+        "应用的原创美术、角色、动画、音乐编排、文字及其他原创材料受适用知识产权法律保护。Emmy’s Bee School 和 NICKSESS Theater 品牌用于标识本应用及其创意制作。第三方组件和材料仍受各自许可及权利约束。"
+      ],
+      [
+        "可用性与更新",
+        "我们可能发布更新、修复错误、改进或调整功能。可用性可能取决于设备兼容性、操作系统版本及应用商店服务。"
+      ],
+      [
+        "免责声明",
+        "我们致力于提供愉快、可靠的教育体验。但在适用法律允许的范围内，不保证应用持续无中断运行，也不保证特定教育成果。本条款不排除法律禁止排除的权利或保护。"
+      ],
+      [
+        "责任限制",
+        "在适用法律允许的范围内，我们不对因使用本应用产生的间接或后果性损失负责。法律禁止限制责任的情形不适用本限制。"
+      ],
+      [
+        "隐私",
+        "有关应用如何处理数据的信息，请参阅我们的隐私政策。"
+      ],
+      [
+        "条款变更",
+        "我们可能因应用、服务或法律要求的变化更新本使用条款，并在适当情况下更新生效日期。"
+      ],
+      [
+        "联系信息",
+        "开发者及运营者：Mykola Kubryakov。创意品牌：NICKSESS Theater。应用：Emmy’s Bee School。电子邮箱：support@relaxess.app。"
+      ]
+    ]
+  }
+}

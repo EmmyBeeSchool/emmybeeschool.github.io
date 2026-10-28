@@ -1,0 +1,368 @@
+{
+  "es": {
+    "ui": {
+      "privacy": "Política de privacidad",
+      "terms": "Condiciones de uso",
+      "back": "Volver al inicio",
+      "home": "Inicio",
+      "effective": "Fecha de entrada en vigor: 25 de octubre de 2026",
+      "notice_privacy": "Nuestro compromiso con las familias: Emmy’s Bee School es un juego de aprendizaje temprano para niños pequeños. Procuramos minimizar el tratamiento de datos y ofrecer una experiencia segura y adecuada para su edad.",
+      "notice_terms": "¡Bienvenidos a Emmy’s Bee School! Lea estas Condiciones de uso antes de utilizar la aplicación. Los padres y tutores legales deben revisarlas antes de permitir que un niño juegue."
+    },
+    "sections": [
+      [
+        "Quiénes somos",
+        "Emmy’s Bee School está desarrollada y gestionada por Mykola Kubryakov bajo la marca creativa NICKSESS Theater. En esta política, «nosotros» se refiere al desarrollador y operador de la aplicación. Las consultas sobre privacidad pueden enviarse a support@relaxess.app."
+      ],
+      [
+        "Información utilizada por la aplicación",
+        "El juego no exige que los niños creen una cuenta ni proporcionen su nombre, correo electrónico o teléfono. La versión gratuita guarda localmente en el dispositivo el día natural y el tiempo de juego utilizado para gestionar el límite diario de 15 minutos. Estos datos permiten el funcionamiento del juego y no pretenden identificar al menor."
+      ],
+      [
+        "Suscripciones e información de compra",
+        "Emmy’s Bee School ofrece una suscripción Premium opcional de 2,99 USD al mes que permite jugar sin límite de tiempo y acceder a los tres niveles. Las compras se procesan mediante la tienda correspondiente, como App Store de Apple o Google Play. Utilizamos RevenueCat para gestionar el estado de las suscripciones, las compras y su restauración. RevenueCat puede tratar un identificador generado del usuario de la aplicación, derechos de suscripción, identificadores de transacciones, historial de compras y datos técnicos necesarios. No pedimos a los niños que introduzcan datos de tarjetas de pago en el juego. Consulte la Política de privacidad de RevenueCat y la información de privacidad de la tienda correspondiente."
+      ],
+      [
+        "Privacidad infantil",
+        "La aplicación está destinada a niños pequeños y sus familias. No exigimos datos de contacto personales de los niños para participar en las actividades. Las compras y la gestión de cuentas deben realizarlas los padres o tutores legales mediante la cuenta de la tienda. Si cree que se nos ha facilitado indebidamente información personal de un menor, contáctenos para que podamos investigarlo y responder."
+      ],
+      [
+        "Publicidad y análisis",
+        "El diseño actual no incluye publicidad de terceros ni un servicio de análisis del comportamiento integrado de forma independiente. No obstante, el sistema operativo, la tienda y el proveedor de suscripciones pueden tratar datos técnicos según se describe en esta política."
+      ],
+      [
+        "Permisos del dispositivo",
+        "Las actividades incluyen animaciones visuales y reproducción de audio. La aplicación no está diseñada para grabar la voz de los niños ni para acceder a la cámara, los contactos o la ubicación precisa del dispositivo durante el juego."
+      ],
+      [
+        "Intercambio de datos",
+        "Utilizamos servicios de terceros cuando son necesarios para las suscripciones y compras. RevenueCat y la tienda correspondiente pueden tratar información técnica y de compras. No vendemos información personal de los niños."
+      ],
+      [
+        "Conservación de datos y opciones",
+        "Los registros del tiempo de juego se almacenan en el dispositivo y pueden eliminarse al borrar los datos locales o desinstalar la aplicación, según las funciones de copia de seguridad y restauración. RevenueCat y la tienda pueden conservar información de suscripciones conforme a sus políticas y obligaciones legales. Los padres o tutores pueden consultarnos o presentar solicitudes sobre los datos tratados mediante nuestros servicios; las examinaremos y explicaremos los límites relativos a terceros o a la conservación legalmente exigida."
+      ],
+      [
+        "Seguridad",
+        "Procuramos limitar los datos necesarios y utilizamos servicios establecidos de plataformas y suscripciones. Ningún sistema electrónico puede garantizar una seguridad absoluta."
+      ],
+      [
+        "Tratamiento internacional",
+        "Los proveedores externos de suscripciones y distribución pueden tratar datos técnicos o de compras en países distintos del país del usuario. Sus políticas de privacidad describen estas prácticas."
+      ],
+      [
+        "Cambios en esta política",
+        "Podemos actualizar esta Política de privacidad cuando cambien la aplicación, sus servicios o los requisitos aplicables. Actualizaremos la fecha de entrada en vigor cuando corresponda."
+      ],
+      [
+        "Contacto",
+        "Desarrollador y operador: Mykola Kubryakov. Marca creativa: NICKSESS Theater. Aplicación: Emmy’s Bee School. Correo electrónico: support@relaxess.app."
+      ]
+    ]
+  },
+  "de": {
+    "ui": {
+      "privacy": "Datenschutzerklärung",
+      "terms": "Nutzungsbedingungen",
+      "back": "Zur Startseite",
+      "home": "Startseite",
+      "effective": "Gültig ab: 25. Oktober 2026",
+      "notice_privacy": "Unser Versprechen an Familien: Emmy’s Bee School ist ein Lernspiel für kleine Kinder. Wir bemühen uns, die Datenverarbeitung zu minimieren und ein sicheres, altersgerechtes Lernerlebnis zu bieten.",
+      "notice_terms": "Willkommen bei Emmy’s Bee School! Bitte lesen Sie diese Nutzungsbedingungen vor der Verwendung. Eltern und Erziehungsberechtigte sollten sie prüfen, bevor Kinder das Spiel nutzen."
+    },
+    "sections": [
+      [
+        "Wer wir sind",
+        "Emmy’s Bee School wird von Mykola Kubryakov unter der Kreativmarke NICKSESS Theater entwickelt und betrieben. „Wir“, „uns“ und „unser“ beziehen sich in dieser Erklärung auf den Entwickler und Betreiber. Datenschutzfragen können an support@relaxess.app gesendet werden."
+      ],
+      [
+        "Von der App verwendete Informationen",
+        "Kinder müssen zum Spielen weder ein Konto erstellen noch Namen, E-Mail-Adresse oder Telefonnummer angeben. Die kostenlose Version speichert den lokalen Kalendertag und die genutzte Spielzeit auf dem Gerät, um das tägliche Limit von 15 Minuten zu verwalten. Diese Angaben dienen dem Spielbetrieb und sollen kein Kind identifizieren."
+      ],
+      [
+        "Abonnements und Kaufinformationen",
+        "Ein optionales Premium-Abonnement für 2,99 USD pro Monat bietet unbegrenzte Spielzeit und Zugang zu allen drei Levels. In-App-Käufe werden über den jeweiligen Store, etwa den Apple App Store oder Google Play, abgewickelt. RevenueCat verwaltet Abonnementstatus, Käufe und Wiederherstellungen. Dabei kann RevenueCat eine generierte App-Nutzerkennung, Berechtigungen, Transaktionskennungen, Kaufverlauf und erforderliche technische Daten verarbeiten. Kinder werden nicht aufgefordert, Zahlungskartendaten im Spiel einzugeben. Weitere Informationen finden Sie in der Datenschutzerklärung von RevenueCat und des jeweiligen App-Stores."
+      ],
+      [
+        "Datenschutz von Kindern",
+        "Emmy’s Bee School richtet sich an kleine Kinder und ihre Familien. Für die Lernaktivitäten verlangen wir keine persönlichen Kontaktdaten von Kindern. Abonnementkäufe und Kontoverwaltung sind durch Eltern oder Erziehungsberechtigte über das jeweilige Store-Konto vorzunehmen. Wenn Sie vermuten, dass uns unzulässig personenbezogene Daten eines Kindes übermittelt wurden, kontaktieren Sie uns, damit wir dies prüfen und angemessen reagieren können."
+      ],
+      [
+        "Werbung und Analysen",
+        "Die aktuelle App enthält keine Werbung Dritter und keinen eigenständig eingebundenen Dienst zur Verhaltensanalyse. Betriebssystem, App-Store und Abonnementanbieter können jedoch technische Daten gemäß dieser Erklärung verarbeiten."
+      ],
+      [
+        "Geräteberechtigungen",
+        "Die Lernaktivitäten verwenden Animationen und Audiowiedergabe. Die App ist nicht dafür ausgelegt, Kinderstimmen aufzunehmen oder für das Spiel auf Kamera, Kontakte oder den genauen Standort zuzugreifen."
+      ],
+      [
+        "Datenweitergabe",
+        "Für Abonnements und Käufe nutzen wir erforderliche Drittanbieter. RevenueCat und der jeweilige App-Store können relevante Kauf- und technische Daten verarbeiten. Wir verkaufen keine personenbezogenen Daten von Kindern."
+      ],
+      [
+        "Speicherdauer und Ihre Möglichkeiten",
+        "Spielzeitdaten werden auf dem Gerät gespeichert und können durch Löschen lokaler App-Daten oder Deinstallation entfernt werden; Sicherungs- und Wiederherstellungsfunktionen des Geräts bleiben vorbehalten. RevenueCat und der Store können Abonnementdaten gemäß ihren Richtlinien und gesetzlichen Pflichten aufbewahren. Eltern oder Erziehungsberechtigte können sich mit Datenschutzfragen oder Anfragen zu über unsere Dienste verarbeiteten Daten an uns wenden. Wir prüfen diese und erläutern Grenzen durch Drittanbieter oder gesetzliche Aufbewahrungspflichten."
+      ],
+      [
+        "Sicherheit",
+        "Wir beschränken die benötigten Daten nach Möglichkeit und nutzen etablierte Plattform- und Abonnementdienste. Kein elektronisches System kann absolute Sicherheit garantieren."
+      ],
+      [
+        "Internationale Verarbeitung",
+        "Drittanbieter für Abonnements und App-Vertrieb können technische oder Kaufdaten in anderen Ländern als dem Wohnsitzland des Nutzers verarbeiten. Einzelheiten stehen in ihren Datenschutzerklärungen."
+      ],
+      [
+        "Änderungen dieser Erklärung",
+        "Wir können diese Datenschutzerklärung aktualisieren, wenn sich App, Dienste oder geltende Anforderungen ändern. Das angegebene Datum des Inkrafttretens wird gegebenenfalls angepasst."
+      ],
+      [
+        "Kontakt",
+        "Entwickler und Betreiber: Mykola Kubryakov. Kreativmarke: NICKSESS Theater. Anwendung: Emmy’s Bee School. E-Mail: support@relaxess.app."
+      ]
+    ]
+  },
+  "fr": {
+    "ui": {
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions d’utilisation",
+      "back": "Retour à l’accueil",
+      "home": "Accueil",
+      "effective": "Date d’entrée en vigueur : 25 octobre 2026",
+      "notice_privacy": "Notre engagement envers les familles : Emmy’s Bee School est un jeu d’éveil destiné aux jeunes enfants. Nous cherchons à limiter le traitement des données et à offrir une expérience sûre et adaptée à leur âge.",
+      "notice_terms": "Bienvenue à Emmy’s Bee School ! Veuillez lire ces Conditions d’utilisation avant d’utiliser l’application. Les parents et représentants légaux doivent les examiner avant de laisser un enfant jouer."
+    },
+    "sections": [
+      [
+        "Qui sommes-nous ?",
+        "Emmy’s Bee School est développée et exploitée par Mykola Kubryakov sous la marque créative NICKSESS Theater. Dans cette politique, « nous » désigne le développeur et l’exploitant de l’application. Pour toute question relative à la confidentialité : support@relaxess.app."
+      ],
+      [
+        "Informations utilisées par l’application",
+        "Le jeu ne demande pas aux enfants de créer un compte ni de fournir leur nom, leur adresse e-mail ou leur numéro de téléphone. La version gratuite conserve localement sur l’appareil le jour civil local et le temps de jeu utilisé afin de gérer la limite quotidienne de 15 minutes. Ces informations servent au fonctionnement du jeu et ne visent pas à identifier un enfant."
+      ],
+      [
+        "Abonnements et achats",
+        "Un abonnement Premium facultatif à 2,99 USD par mois permet de jouer sans limite de temps et d’accéder aux trois niveaux. Les achats intégrés sont traités par la boutique concernée, comme l’App Store d’Apple ou Google Play. Nous utilisons RevenueCat pour gérer le statut des abonnements, les achats et leur restauration. RevenueCat peut traiter un identifiant d’utilisateur généré, les droits d’abonnement, les identifiants de transaction, l’historique des achats et les informations techniques nécessaires. Nous ne demandons pas aux enfants de saisir des données de carte bancaire dans le jeu. Consultez la politique de confidentialité de RevenueCat et celle de la boutique concernée."
+      ],
+      [
+        "Confidentialité des enfants",
+        "L’application s’adresse aux jeunes enfants et à leurs familles. Aucune coordonnée personnelle n’est exigée des enfants pour utiliser les activités éducatives. Les achats et la gestion des comptes sont destinés aux parents ou représentants légaux, via leur compte de boutique. Si vous pensez que des données personnelles d’un enfant nous ont été communiquées de manière inappropriée, contactez-nous afin que nous puissions examiner la situation et y répondre."
+      ],
+      [
+        "Publicité et analyse",
+        "La conception actuelle ne comprend ni publicité de tiers ni service indépendant d’analyse comportementale intégré. Le système d’exploitation, la boutique et le prestataire d’abonnement peuvent néanmoins traiter des données techniques conformément à cette politique."
+      ],
+      [
+        "Autorisations de l’appareil",
+        "Les activités utilisent des animations visuelles et la lecture audio. L’application n’est pas conçue pour enregistrer la voix d’un enfant ni pour accéder à la caméra, aux contacts ou à la position précise de l’appareil pendant le jeu."
+      ],
+      [
+        "Partage des données",
+        "Nous utilisons les services de tiers nécessaires aux abonnements et aux achats. RevenueCat et la boutique concernée peuvent traiter des informations techniques et liées aux achats. Nous ne vendons pas les données personnelles des enfants."
+      ],
+      [
+        "Conservation des données et vos choix",
+        "Les données de temps de jeu sont stockées sur l’appareil et peuvent être supprimées lors de l’effacement des données locales ou de la désinstallation, sous réserve des mécanismes de sauvegarde et de restauration. RevenueCat et la boutique peuvent conserver des informations d’abonnement selon leurs politiques et obligations légales. Les parents ou représentants légaux peuvent nous adresser des questions ou demandes concernant les données traitées par nos services. Nous les examinerons et expliquerons les limites liées aux tiers ou aux obligations légales de conservation."
+      ],
+      [
+        "Sécurité",
+        "Nous cherchons à limiter les données nécessaires et utilisons des services reconnus de plateforme et d’abonnement. Aucun système électronique ne garantit une sécurité absolue."
+      ],
+      [
+        "Traitement international",
+        "Les prestataires tiers d’abonnement et de distribution peuvent traiter des données techniques ou d’achat dans d’autres pays que celui de l’utilisateur. Leurs politiques de confidentialité décrivent leurs pratiques."
+      ],
+      [
+        "Modifications de cette politique",
+        "Nous pouvons mettre à jour cette Politique de confidentialité si l’application, ses services ou les exigences applicables évoluent. La date d’entrée en vigueur sera modifiée si nécessaire."
+      ],
+      [
+        "Nous contacter",
+        "Développeur et exploitant : Mykola Kubryakov. Marque créative : NICKSESS Theater. Application : Emmy’s Bee School. E-mail : support@relaxess.app."
+      ]
+    ]
+  },
+  "pt": {
+    "ui": {
+      "privacy": "Política de Privacidade",
+      "terms": "Termos de Uso",
+      "back": "Voltar ao início",
+      "home": "Início",
+      "effective": "Data de vigência: 25 de outubro de 2026",
+      "notice_privacy": "Nosso compromisso com as famílias: Emmy’s Bee School é um jogo de aprendizagem inicial para crianças pequenas. Buscamos minimizar o processamento de dados e proporcionar uma experiência segura e adequada à idade.",
+      "notice_terms": "Bem-vindo ao Emmy’s Bee School! Leia estes Termos de Uso antes de utilizar o aplicativo. Pais e responsáveis legais devem analisá-los antes de permitir que uma criança jogue."
+    },
+    "sections": [
+      [
+        "Quem somos",
+        "Emmy’s Bee School é desenvolvido e operado por Mykola Kubryakov sob a marca criativa NICKSESS Theater. Nesta política, «nós» refere-se ao desenvolvedor e operador do aplicativo. Dúvidas sobre privacidade: support@relaxess.app."
+      ],
+      [
+        "Informações utilizadas pelo aplicativo",
+        "O jogo não exige que crianças criem contas nem forneçam nome, e-mail ou telefone. A versão gratuita armazena localmente no dispositivo o dia do calendário local e o tempo de jogo utilizado para controlar o limite diário de 15 minutos. Essas informações servem ao funcionamento do jogo e não se destinam a identificar a criança."
+      ],
+      [
+        "Assinaturas e informações de compra",
+        "Uma assinatura Premium opcional de US$ 2,99 por mês oferece tempo de jogo ilimitado e acesso aos três níveis. Compras no aplicativo são processadas pela loja correspondente, como a App Store da Apple ou o Google Play. Utilizamos o RevenueCat para gerenciar o estado das assinaturas, compras e restaurações. O RevenueCat pode processar um identificador de usuário gerado, direitos de assinatura, identificadores de transação, histórico de compras e dados técnicos necessários. Não solicitamos que crianças insiram dados de cartões de pagamento no jogo. Consulte a Política de Privacidade do RevenueCat e as informações de privacidade da loja correspondente."
+      ],
+      [
+        "Privacidade das crianças",
+        "O aplicativo destina-se a crianças pequenas e suas famílias. Não exigimos dados pessoais de contato das crianças para usar as atividades educativas. Compras e gerenciamento de contas devem ser realizados pelos pais ou responsáveis legais por meio da conta da loja. Se você acredita que dados pessoais de uma criança foram fornecidos indevidamente, entre em contato para que possamos investigar e responder adequadamente."
+      ],
+      [
+        "Publicidade e análise",
+        "O aplicativo atualmente não inclui publicidade de terceiros nem serviço independente de análise comportamental integrado. Ainda assim, o sistema operacional, a loja e o provedor de assinaturas podem processar dados técnicos conforme esta política."
+      ],
+      [
+        "Permissões do dispositivo",
+        "As atividades utilizam animações visuais e reprodução de áudio. O aplicativo não foi projetado para gravar a voz de crianças nem acessar câmera, contatos ou localização precisa para jogar."
+      ],
+      [
+        "Compartilhamento de dados",
+        "Utilizamos serviços de terceiros quando necessários para assinaturas e compras. O RevenueCat e a loja correspondente podem processar informações técnicas e de compras. Não vendemos dados pessoais de crianças."
+      ],
+      [
+        "Retenção de dados e suas opções",
+        "Os registros de tempo de jogo ficam no dispositivo e podem ser removidos ao limpar os dados locais ou desinstalar o aplicativo, conforme os mecanismos de backup e restauração. O RevenueCat e a loja podem reter informações de assinatura de acordo com suas políticas e obrigações legais. Pais e responsáveis podem enviar dúvidas ou solicitações sobre dados processados por nossos serviços; nós as analisaremos e explicaremos limitações relativas a terceiros ou à retenção legalmente exigida."
+      ],
+      [
+        "Segurança",
+        "Buscamos limitar os dados necessários e utilizar serviços consolidados de plataformas e assinaturas. Nenhum sistema eletrônico pode garantir segurança absoluta."
+      ],
+      [
+        "Processamento internacional",
+        "Provedores terceirizados de assinaturas e distribuição podem processar dados técnicos ou de compras em países diferentes do país do usuário. Suas políticas de privacidade descrevem essas práticas."
+      ],
+      [
+        "Alterações nesta política",
+        "Podemos atualizar esta Política de Privacidade quando o aplicativo, os serviços ou os requisitos aplicáveis mudarem. A data de vigência será atualizada quando necessário."
+      ],
+      [
+        "Contato",
+        "Desenvolvedor e operador: Mykola Kubryakov. Marca criativa: NICKSESS Theater. Aplicativo: Emmy’s Bee School. E-mail: support@relaxess.app."
+      ]
+    ]
+  },
+  "ja": {
+    "ui": {
+      "privacy": "プライバシーポリシー",
+      "terms": "利用規約",
+      "back": "ホームに戻る",
+      "home": "ホーム",
+      "effective": "発効日：2026年10月25日",
+      "notice_privacy": "ご家族へのお約束：Emmy’s Bee School は幼いお子様向けの早期学習ゲームです。データ処理を最小限に抑え、安全で年齢に適した学習体験の提供を目指します。",
+      "notice_terms": "Emmy’s Bee School へようこそ！アプリを使用する前に本利用規約をお読みください。お子様が遊ぶ前に保護者または法定後見人が内容をご確認ください。"
+    },
+    "sections": [
+      [
+        "運営者について",
+        "Emmy’s Bee School は、クリエイティブブランド NICKSESS Theater のもと、Mykola Kubryakov が開発・運営しています。本ポリシーの「当方」は同アプリの開発者および運営者を指します。プライバシーに関するお問い合わせは support@relaxess.app までお送りください。"
+      ],
+      [
+        "アプリが使用する情報",
+        "お子様が遊ぶためにアカウントを作成したり、氏名、メールアドレス、電話番号を提供したりする必要はありません。無料版では、1日15分の利用制限を管理するため、端末内に現地の日付と使用したプレイ時間を保存します。これらの情報はゲームの動作に使用され、お子様の特定を目的としません。"
+      ],
+      [
+        "サブスクリプションと購入情報",
+        "月額2.99米ドルの任意の Premium サブスクリプションにより、プレイ時間が無制限となり、全3レベルを利用できます。アプリ内購入は Apple App Store や Google Play など該当するストアを通じて処理されます。サブスクリプションの状態、購入、購入の復元の管理には RevenueCat を使用します。RevenueCat は、生成されたアプリユーザー識別子、利用権限、取引識別子、購入履歴、および機能提供に必要な技術情報を処理する場合があります。ゲーム内でお子様にカード情報を入力させることはありません。RevenueCat のプライバシーポリシーと各ストアのプライバシー情報もご確認ください。"
+      ],
+      [
+        "お子様のプライバシー",
+        "本アプリは幼いお子様とご家族向けです。学習活動の利用にお子様の個人連絡先情報は必要ありません。サブスクリプションの購入とアカウント管理は、保護者または法定後見人がストアのアカウントを通じて行うことを想定しています。お子様の個人情報が不適切に提供されたと思われる場合は、ご連絡ください。調査のうえ適切に対応します。"
+      ],
+      [
+        "広告と分析",
+        "現在のアプリには第三者広告や、独立して組み込まれた行動分析サービスはありません。ただし、OS、アプリストア、サブスクリプション提供者が、本ポリシーに記載する技術データを処理する場合があります。"
+      ],
+      [
+        "端末の権限",
+        "学習活動ではアニメーションと音声再生を使用します。ゲームのためにお子様の声を録音したり、カメラ、連絡先、正確な位置情報にアクセスしたりする設計ではありません。"
+      ],
+      [
+        "データの共有",
+        "購入とサブスクリプションの提供に必要な場合、第三者サービスを使用します。RevenueCat および該当するアプリストアは、購入情報や技術情報を処理する場合があります。当方はお子様の個人情報を販売しません。"
+      ],
+      [
+        "データの保存期間と選択肢",
+        "プレイ時間の記録は端末内に保存され、アプリのローカルデータ削除やアンインストールによって消去される場合があります。ただし、端末のバックアップや復元の動作によります。RevenueCat とアプリストアは、それぞれの方針および法的義務に従い、サブスクリプション情報を保持する場合があります。保護者は当方のサービスで処理される情報について質問や請求を行えます。当方は内容を確認し、第三者の記録や法的な保存義務による制限を説明します。"
+      ],
+      [
+        "セキュリティ",
+        "ゲームの運営に必要な情報を最小限にし、確立されたプラットフォームとサブスクリプションサービスを利用するよう努めます。ただし、電子システムに絶対的な安全性はありません。"
+      ],
+      [
+        "国際的なデータ処理",
+        "サブスクリプションやアプリ配信を支える第三者は、ユーザーの居住国以外で技術情報や購入情報を処理する場合があります。詳細は各事業者のプライバシーポリシーをご確認ください。"
+      ],
+      [
+        "本ポリシーの変更",
+        "アプリ、サービス、適用される要件の変更に応じて、本プライバシーポリシーを更新することがあります。必要に応じて上記の発効日を更新します。"
+      ],
+      [
+        "お問い合わせ",
+        "開発者・運営者：Mykola Kubryakov。クリエイティブブランド：NICKSESS Theater。アプリ：Emmy’s Bee School。メール：support@relaxess.app。"
+      ]
+    ]
+  },
+  "zh": {
+    "ui": {
+      "privacy": "隐私政策",
+      "terms": "使用条款",
+      "back": "返回首页",
+      "home": "首页",
+      "effective": "生效日期：2026年10月25日",
+      "notice_privacy": "我们对家庭的承诺：Emmy’s Bee School 是一款面向幼儿的早期学习游戏。我们努力减少数据处理，提供安全且适合儿童年龄的学习体验。",
+      "notice_terms": "欢迎使用 Emmy’s Bee School！使用应用前请阅读本使用条款。家长或法定监护人应在允许儿童玩游戏前审阅这些条款。"
+    },
+    "sections": [
+      [
+        "关于我们",
+        "Emmy’s Bee School 由 Mykola Kubryakov 以创意品牌 NICKSESS Theater 的名义开发和运营。本政策中的“我们”指该应用的开发者和运营者。隐私问题请联系 support@relaxess.app。"
+      ],
+      [
+        "应用使用的信息",
+        "儿童无需创建账户，也无需提供姓名、电子邮箱或电话号码即可玩游戏。免费版在设备本地保存当地日历日期和已使用的游戏时间，以管理每天15分钟的限制。这些信息仅用于游戏运行，并非为了识别儿童身份。"
+      ],
+      [
+        "订阅与购买信息",
+        "可选的 Premium 订阅价格为每月2.99美元，提供不限时游戏和全部三个关卡。应用内购买由相应平台商店处理，例如 Apple App Store 或 Google Play。我们使用 RevenueCat 管理订阅状态、购买及恢复购买。RevenueCat 可能处理自动生成的应用用户标识符、订阅权益、交易标识符、购买历史及提供订阅功能所需的技术信息。我们不会要求儿童直接在游戏中输入银行卡信息。更多信息请参阅 RevenueCat 隐私政策及相应应用商店的隐私说明。"
+      ],
+      [
+        "儿童隐私",
+        "本应用面向幼儿及其家庭。儿童参加学习活动无需提供个人联系信息。订阅购买和账户管理应由家长或法定监护人通过相应应用商店账户完成。如果您认为儿童的个人信息被不当提供给我们，请联系我们，以便调查并妥善处理。"
+      ],
+      [
+        "广告与分析",
+        "当前应用设计不包含第三方广告，也未独立集成行为分析服务。但操作系统、应用商店及订阅服务提供商仍可能按照本政策处理技术数据。"
+      ],
+      [
+        "设备权限",
+        "学习活动使用视觉动画和音频播放。本应用并非为录制儿童声音或在游戏中访问设备摄像头、联系人或精确位置而设计。"
+      ],
+      [
+        "数据共享",
+        "我们在提供订阅和购买功能所必需的情况下使用第三方服务。RevenueCat 和相应应用商店可能处理相关购买及技术信息。我们不出售儿童的个人信息。"
+      ],
+      [
+        "数据保留与您的选择",
+        "游戏时间记录存储在设备上，清除本地应用数据或卸载应用后可能被删除，但具体取决于设备的备份和恢复机制。RevenueCat 和应用商店可能根据各自政策及法律义务保留订阅相关信息。家长或监护人可就我们服务处理的信息提出隐私问题或请求。我们会审查请求，并说明第三方记录或法定保留要求带来的限制。"
+      ],
+      [
+        "安全",
+        "我们尽力减少运营游戏所需的信息，并使用成熟的平台和订阅服务。任何电子系统都无法保证绝对安全。"
+      ],
+      [
+        "跨境处理",
+        "支持订阅和应用分发的第三方服务商可能在用户所在国家以外处理技术或购买信息。相关做法详见各服务商的隐私政策。"
+      ],
+      [
+        "本政策的变更",
+        "当应用、服务或适用要求发生变化时，我们可能更新本隐私政策，并在适当情况下更新上方的生效日期。"
+      ],
+      [
+        "联系我们",
+        "开发者及运营者：Mykola Kubryakov。创意品牌：NICKSESS Theater。应用：Emmy’s Bee School。电子邮箱：support@relaxess.app。"
+      ]
+    ]
+  }
+}
