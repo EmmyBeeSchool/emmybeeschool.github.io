@@ -1,17 +1,86 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Data Deletion Request | Emmy's Bee School</title>
   <style>
-    body {font-family: Arial, sans-serif; line-height: 1.7; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #263238;}
-    h1, h2 {color: #245b78;}
-    a {color: #1769aa;}
+    :root {
+      --ink: #354525;
+      --green: #287448;
+      --cream: #fffaf0;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Trebuchet MS", Arial, sans-serif;
+      color: var(--ink);
+      background: var(--cream);
+      line-height: 1.75;
+    }
+    a { color: #287448; }
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 18px;
+      padding: 14px 6%;
+      background: #fffdf4;
+      box-shadow: 0 3px 15px #60490012;
+      flex-wrap: wrap;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      font-size: 1.2rem;
+      font-weight: 900;
+      color: var(--ink);
+    }
+    .brand img { width: 55px; height: 55px; object-fit: contain; }
+    .back {
+      background: #ffcf4b;
+      padding: 10px 20px;
+      border-radius: 25px;
+      text-decoration: none;
+      color: #4b3916;
+      font-weight: bold;
+    }
+    .intro {
+      padding: 55px 6%;
+      text-align: center;
+      background: linear-gradient(155deg, #fff0b7, #f2ffe2 65%, #d8f5ff);
+    }
+    h1 { color: #35692f; font-size: clamp(2rem, 5vw, 3.5rem); }
+    h2 { color: #346d37; margin-top: 36px; }
+    main {
+      max-width: 940px;
+      margin: 35px auto 60px;
+      padding: 30px 45px;
+      background: white;
+      border-radius: 24px;
+      box-shadow: 0 8px 24px #2d522012;
+    }
+    .notice {
+      background: #fff7d9;
+      padding: 20px;
+      border-radius: 18px;
+    }
+    footer {
+      background: #28583c;
+      color: white;
+      text-align: center;
+      padding: 30px 6%;
+    }
+    footer a { color: white; }
+    @media (max-width: 780px) {
+      .header { justify-content: center; }
+      main { margin: 20px 12px 40px; padding: 22px; }
+    }
   </style>
 </head>
-<body>
-  <h1>Data Deletion Request</h1>
+<body><header class="header"><a class="brand" href="../"><img src="../assets/images/APP_ICON_EMMY.png.png" alt="Emmy the Bee"/><span>Emmy&#39;s Bee School</span></a><a class="back" href="../">Back to Home</a></header><section class="intro"><h1>Data Deletion Request</h1><p>Emmy&#39;s Bee School | NICKSESS Theater</p></section><main>
   <p><strong>Application:</strong> Emmy's Bee School</p>
   <p><strong>Developer:</strong> Mykola Kubryakov</p>
   <p><strong>Creative Brand:</strong> NICKSESS Theater</p>
@@ -35,5 +104,5 @@
   <h2>Contact</h2>
   <p>Email: <a href="mailto:support@relaxess.app">support@relaxess.app</a></p>
   <p><a href="../privacy/">Read our Privacy Policy</a></p>
-</body>
+</main><footer><p><strong>Emmy&#39;s Bee School | NICKSESS Theater</strong></p><p><a href="../">Home</a> | <a href="../privacy/">Privacy Policy</a> | <a href="../terms/">Terms of Use</a></p><small>&copy; 2026 NICKSESS Theater. All rights reserved.</small></footer></body>
 </html>
