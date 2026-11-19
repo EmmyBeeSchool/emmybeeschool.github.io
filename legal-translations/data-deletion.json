@@ -1,0 +1,248 @@
+{
+  "es": {
+    "ui": [
+      "Solicitud de eliminación de datos",
+      "Volver al inicio",
+      "Inicio",
+      "Política de privacidad",
+      "Condiciones de uso",
+      "Todos los derechos reservados.",
+      "Leer nuestra Política de privacidad"
+    ],
+    "labels": [
+      "Aplicación:",
+      "Desarrollador:",
+      "Marca creativa:",
+      "Correo electrónico:"
+    ],
+    "sections": [
+      [
+        "Cómo solicitar la eliminación de datos",
+        "Los padres o tutores legales pueden solicitar la eliminación de los datos personales asociados con Emmy's Bee School."
+      ],
+      [
+        "¿Qué datos se pueden eliminar?",
+        "La información sobre el tiempo de juego se almacena localmente en el dispositivo. Por lo general, puede eliminarse borrando los datos locales de la aplicación o desinstalándola, sujeto al funcionamiento de las copias de seguridad y la restauración del dispositivo.",
+        "Los identificadores y registros relacionados con suscripciones procesados mediante RevenueCat pueden ser susceptibles de eliminación una vez identificados los registros correspondientes."
+      ],
+      [
+        "¿Qué datos pueden conservarse?",
+        "Apple, Google Play, RevenueCat u otros proveedores pertinentes pueden conservar registros de compras y transacciones cuando sea necesario por motivos legales, financieros, de seguridad o de gestión de suscripciones. Explicaremos las limitaciones aplicables al responder a una solicitud. Los períodos de conservación dependen del proveedor y de los requisitos aplicables."
+      ],
+      [
+        "Contacto"
+      ]
+    ],
+    "steps": [
+      "Envía un correo electrónico a",
+      "Utiliza el asunto: Emmy's Bee School - Data Deletion Request.",
+      "Describe tu solicitud y proporciona únicamente la información necesaria para identificar los registros de suscripción pertinentes. No envíes contraseñas, datos de tarjetas de pago ni información personal de un menor.",
+      "Revisaremos la solicitud, explicaremos si se necesita información adicional y ayudaremos a eliminar los registros que correspondan."
+    ]
+  },
+  "de": {
+    "ui": [
+      "Antrag auf Datenlöschung",
+      "Zurück zur Startseite",
+      "Startseite",
+      "Datenschutzerklärung",
+      "Nutzungsbedingungen",
+      "Alle Rechte vorbehalten.",
+      "Unsere Datenschutzerklärung lesen"
+    ],
+    "labels": [
+      "Anwendung:",
+      "Entwickler:",
+      "Kreativmarke:",
+      "E-Mail:"
+    ],
+    "sections": [
+      [
+        "So beantragen Sie die Datenlöschung",
+        "Eltern oder Erziehungsberechtigte können die Löschung personenbezogener Daten im Zusammenhang mit Emmy's Bee School beantragen."
+      ],
+      [
+        "Welche Daten können gelöscht werden?",
+        "Informationen zur Spielzeit werden lokal auf dem Gerät gespeichert. Sie können in der Regel durch Löschen der lokalen App-Daten oder Deinstallieren der App entfernt werden, vorbehaltlich des Verhaltens von Gerätesicherungen und Wiederherstellungen.",
+        "Abonnementbezogene Kennungen und Datensätze, die über RevenueCat verarbeitet werden, können nach Identifizierung der betreffenden Datensätze möglicherweise gelöscht werden."
+      ],
+      [
+        "Welche Daten können aufbewahrt werden?",
+        "Apple, Google Play, RevenueCat oder andere zuständige Anbieter können Kauf- und Transaktionsdaten aufbewahren, soweit dies aus rechtlichen, finanziellen, sicherheitsbezogenen oder abonnementbezogenen Gründen erforderlich ist. Bei der Beantwortung einer Anfrage erläutern wir die geltenden Einschränkungen. Die Aufbewahrungsfristen hängen vom Anbieter und den jeweiligen Anforderungen ab."
+      ],
+      [
+        "Kontakt"
+      ]
+    ],
+    "steps": [
+      "Senden Sie eine E-Mail an",
+      "Verwenden Sie den Betreff: Emmy's Bee School - Data Deletion Request.",
+      "Beschreiben Sie Ihre Anfrage und geben Sie nur die Informationen an, die zur Identifizierung relevanter Abonnementdatensätze erforderlich sind. Senden Sie keine Passwörter, Zahlungskartendaten oder personenbezogenen Daten eines Kindes.",
+      "Wir prüfen die Anfrage, erläutern gegebenenfalls benötigte zusätzliche Informationen und unterstützen bei der Löschung der dafür infrage kommenden Datensätze."
+    ]
+  },
+  "fr": {
+    "ui": [
+      "Demande de suppression des données",
+      "Retour à l’accueil",
+      "Accueil",
+      "Politique de confidentialité",
+      "Conditions d’utilisation",
+      "Tous droits réservés.",
+      "Lire notre politique de confidentialité"
+    ],
+    "labels": [
+      "Application :",
+      "Développeur :",
+      "Marque créative :",
+      "E-mail :"
+    ],
+    "sections": [
+      [
+        "Comment demander la suppression des données",
+        "Les parents ou représentants légaux peuvent demander la suppression des données personnelles associées à Emmy's Bee School."
+      ],
+      [
+        "Quelles données peuvent être supprimées ?",
+        "Les informations relatives au temps de jeu sont stockées localement sur l’appareil. Elles peuvent généralement être supprimées en effaçant les données locales de l’application ou en la désinstallant, sous réserve du fonctionnement des sauvegardes et restaurations de l’appareil.",
+        "Les identifiants et enregistrements liés aux abonnements traités par RevenueCat peuvent être admissibles à la suppression après identification des enregistrements concernés."
+      ],
+      [
+        "Quelles données peuvent être conservées ?",
+        "Apple, Google Play, RevenueCat ou d’autres prestataires concernés peuvent conserver des données d’achat et de transaction lorsque cela est nécessaire pour des raisons légales, financières, de sécurité ou de gestion des abonnements. Nous expliquerons les limites applicables lors de notre réponse. Les durées de conservation dépendent du prestataire et des obligations applicables."
+      ],
+      [
+        "Contact"
+      ]
+    ],
+    "steps": [
+      "Envoyez un e-mail à",
+      "Utilisez l’objet : Emmy's Bee School - Data Deletion Request.",
+      "Décrivez votre demande et fournissez uniquement les informations nécessaires pour identifier les enregistrements d’abonnement concernés. N’envoyez pas de mots de passe, de données de carte bancaire ni d’informations personnelles concernant un enfant.",
+      "Nous examinerons la demande, préciserons les éventuelles informations supplémentaires nécessaires et aiderons à supprimer les enregistrements admissibles."
+    ]
+  },
+  "pt": {
+    "ui": [
+      "Solicitação de exclusão de dados",
+      "Voltar ao início",
+      "Início",
+      "Política de Privacidade",
+      "Termos de Uso",
+      "Todos os direitos reservados.",
+      "Leia nossa Política de Privacidade"
+    ],
+    "labels": [
+      "Aplicativo:",
+      "Desenvolvedor:",
+      "Marca criativa:",
+      "E-mail:"
+    ],
+    "sections": [
+      [
+        "Como solicitar a exclusão de dados",
+        "Pais ou responsáveis legais podem solicitar a exclusão de dados pessoais associados ao Emmy's Bee School."
+      ],
+      [
+        "Quais dados podem ser excluídos?",
+        "As informações sobre o tempo de jogo são armazenadas localmente no dispositivo. Em geral, podem ser removidas limpando os dados locais do aplicativo ou desinstalando-o, dependendo do funcionamento dos backups e da restauração do dispositivo.",
+        "Identificadores e registros relacionados a assinaturas processados pelo RevenueCat podem ser elegíveis para exclusão após a identificação dos registros relevantes."
+      ],
+      [
+        "Quais dados podem ser mantidos?",
+        "Apple, Google Play, RevenueCat ou outros provedores relevantes podem manter registros de compras e transações quando necessário para fins legais, financeiros, de segurança ou gerenciamento de assinaturas. Explicaremos as limitações aplicáveis ao responder à solicitação. Os períodos de retenção dependem do provedor e dos requisitos aplicáveis."
+      ],
+      [
+        "Contato"
+      ]
+    ],
+    "steps": [
+      "Envie um e-mail para",
+      "Use o assunto: Emmy's Bee School - Data Deletion Request.",
+      "Descreva sua solicitação e forneça apenas as informações necessárias para identificar os registros de assinatura relevantes. Não envie senhas, dados de cartões de pagamento nem informações pessoais de uma criança.",
+      "Analisaremos a solicitação, explicaremos se são necessárias informações adicionais e ajudaremos na exclusão dos registros elegíveis."
+    ]
+  },
+  "ja": {
+    "ui": [
+      "データ削除リクエスト",
+      "ホームに戻る",
+      "ホーム",
+      "プライバシーポリシー",
+      "利用規約",
+      "無断転載を禁じます。",
+      "プライバシーポリシーを読む"
+    ],
+    "labels": [
+      "アプリ：",
+      "開発者：",
+      "ブランド：",
+      "メール："
+    ],
+    "sections": [
+      [
+        "データ削除の申請方法",
+        "保護者または法定代理人は、Emmy's Bee School に関連する個人データの削除を申請できます。"
+      ],
+      [
+        "削除できるデータ",
+        "プレイ時間の情報は端末内に保存されます。通常、アプリのローカルデータを消去するか、アプリをアンインストールすることで削除できます。ただし、端末のバックアップや復元の仕組みによって異なる場合があります。",
+        "RevenueCat を通じて処理されるサブスクリプション関連の識別子や記録は、対象の記録を特定した後、削除できる場合があります。"
+      ],
+      [
+        "保持される可能性のあるデータ",
+        "Apple、Google Play、RevenueCat、その他の関係事業者は、法令、財務、安全性、またはサブスクリプション管理上の必要性に応じて、購入・取引記録を保持する場合があります。申請への回答時に適用される制限を説明します。保存期間は事業者および適用要件によって異なります。"
+      ],
+      [
+        "お問い合わせ"
+      ]
+    ],
+    "steps": [
+      "次のアドレスにメールを送信してください：",
+      "件名は「Emmy's Bee School - Data Deletion Request」にしてください。",
+      "申請内容を説明し、関連するサブスクリプション記録の特定に必要な情報のみを提供してください。パスワード、決済カード情報、子どもの個人情報は送信しないでください。",
+      "申請を確認し、追加情報が必要な場合は説明したうえで、削除対象となる記録の削除を支援します。"
+    ]
+  },
+  "zh": {
+    "ui": [
+      "数据删除请求",
+      "返回首页",
+      "首页",
+      "隐私政策",
+      "使用条款",
+      "保留所有权利。",
+      "阅读我们的隐私政策"
+    ],
+    "labels": [
+      "应用：",
+      "开发者：",
+      "创意品牌：",
+      "电子邮件："
+    ],
+    "sections": [
+      [
+        "如何申请删除数据",
+        "家长或法定监护人可以申请删除与 Emmy's Bee School 相关的个人数据。"
+      ],
+      [
+        "哪些数据可以删除？",
+        "游戏时长信息保存在设备本地。通常可以通过清除应用的本地数据或卸载应用来删除，但具体情况取决于设备备份和恢复机制。",
+        "通过 RevenueCat 处理的订阅相关标识符和记录，在确定相关记录后可能符合删除条件。"
+      ],
+      [
+        "哪些数据可能被保留？",
+        "Apple、Google Play、RevenueCat 或其他相关服务提供商可能因法律、财务、安全或订阅管理要求而保留购买及交易记录。我们会在回复请求时说明适用的限制。保留期限取决于服务提供商及相关要求。"
+      ],
+      [
+        "联系方式"
+      ]
+    ],
+    "steps": [
+      "发送电子邮件至",
+      "邮件主题请填写：Emmy's Bee School - Data Deletion Request。",
+      "请描述您的请求，并仅提供识别相关订阅记录所必需的信息。请勿发送密码、支付卡信息或儿童个人信息。",
+      "我们将审核请求，说明是否需要其他信息，并协助删除符合条件的记录。"
+    ]
+  }
+}

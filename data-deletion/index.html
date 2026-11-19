@@ -79,8 +79,8 @@
       main { margin: 20px 12px 40px; padding: 22px; }
     }
   </style>
-</head>
-<body><header class="header"><a class="brand" href="../"><img src="../assets/images/APP_ICON_EMMY.png.png" alt="Emmy the Bee"/><span>Emmy&#39;s Bee School</span></a><a class="back" href="../">Back to Home</a></header><section class="intro"><h1>Data Deletion Request</h1><p>Emmy&#39;s Bee School | NICKSESS Theater</p></section><main>
+<style>.legal-language-picker{display:inline-flex;align-items:center;gap:6px;font-weight:bold;color:#287448}.legal-language-picker select{font:inherit;border:2px solid #287448;border-radius:18px;padding:8px;background:#fffdf4;color:#354525;max-width:180px}.legal-language-picker select:focus-visible{outline:3px solid #ffcf4b;outline-offset:2px}</style></head>
+<body><header class="header"><a class="brand" href="../"><img src="../assets/images/APP_ICON_EMMY.png.png" alt="Emmy the Bee"/><span>Emmy&#39;s Bee School</span></a><a class="back" href="../">Back to Home</a><label class="legal-language-picker">🌐 <select aria-label="Website language" id="legal-language"><option value="en">English</option><option value="es">Español</option><option value="de">Deutsch</option><option value="fr">Français</option><option value="pt">Português</option><option value="ja">日本語</option><option value="zh">中文</option></select></label></header><section class="intro"><h1>Data Deletion Request</h1><p>Emmy&#39;s Bee School | NICKSESS Theater</p></section><main>
   <p><strong>Application:</strong> Emmy's Bee School</p>
   <p><strong>Developer:</strong> Mykola Kubryakov</p>
   <p><strong>Creative Brand:</strong> NICKSESS Theater</p>
@@ -104,5 +104,115 @@
   <h2>Contact</h2>
   <p>Email: <a href="mailto:support@relaxess.app">support@relaxess.app</a></p>
   <p><a href="../privacy/">Read our Privacy Policy</a></p>
-</main><footer><p><strong>Emmy&#39;s Bee School | NICKSESS Theater</strong></p><p><a href="../">Home</a> | <a href="../privacy/">Privacy Policy</a> | <a href="../terms/">Terms of Use</a></p><small>&copy; 2026 NICKSESS Theater. All rights reserved.</small></footer></body>
+</main><footer><p><strong>Emmy&#39;s Bee School | NICKSESS Theater</strong></p><p><a href="../">Home</a> | <a href="../privacy/">Privacy Policy</a> | <a href="../terms/">Terms of Use</a></p><small>&copy; 2026 NICKSESS Theater. All rights reserved.</small></footer>
+<script id="data-deletion-translator">
+(() => {
+  'use strict';
+  const picker = document.getElementById('legal-language');
+  const main = document.querySelector('main');
+  const title = document.querySelector('.intro h1');
+  const back = document.querySelector('.back');
+  const brand = document.querySelector('.brand span');
+  const introBrand = document.querySelector('.intro p');
+  const footerBrand = document.querySelector('footer strong');
+  const footerLinks = [...document.querySelectorAll('footer a')];
+  const copyright = document.querySelector('footer small');
+  const original = {
+    main: main.innerHTML, title: title.textContent, back: back.textContent,
+    brand: brand.textContent, footerBrand: footerBrand.textContent,
+    footerLinks: footerLinks.map(x => x.textContent),
+    copyright: copyright.textContent
+  };
+  const names = {
+    en:"Emmy's Bee School", es:"Escuela de la abeja Emmy",
+    de:"Emmys Bienenschule", fr:"L’école de l’abeille Emmy",
+    pt:"Escola da Abelha Emmy", ja:"エミーのみつばち学校",
+    zh:"艾米蜜蜂学校"
+  };
+  const email = '<a href="mailto:support@relaxess.app">support@relaxess.app</a>';
+  const requestEmail = '<a href="mailto:support@relaxess.app?subject=Emmy%27s%20Bee%20School%20-%20Data%20Deletion%20Request">support@relaxess.app</a>';
+  const escapeHtml = s => String(s).replace(/[&<>"']/g, c => ({
+    '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'
+  }[c]));
+  let revision = 0;
+
+  async function render(lang) {
+    const current = ++revision;
+    picker.value = lang;
+    document.documentElement.lang = lang;
+    localStorage.setItem('emmy-website-language', lang);
+    const school = names[lang] || names.en;
+    brand.textContent = school;
+    introBrand.textContent = school + ' | NICKSESS Theater';
+    footerBrand.textContent = school + ' | NICKSESS Theater';
+
+    function english() {
+      main.innerHTML = original.main;
+      title.textContent = original.title;
+      back.textContent = original.back;
+      footerLinks.forEach((a, i) => a.textContent = original.footerLinks[i]);
+      copyright.textContent = original.copyright;
+      document.title = original.title + ' | ' + names.en;
+    }
+
+    if (lang === 'en') {
+      english();
+      return;
+    }
+
+    try {
+      const response = await fetch('../legal-translations/data-deletion.json');
+      if (!response.ok) throw new Error('Translation file unavailable');
+      const all = await response.json();
+      if (current !== revision) return;
+      const d = all[lang];
+      if (!d) throw new Error('Translation missing');
+      const u = d.ui.map(escapeHtml);
+      const labels = d.labels.map(escapeHtml);
+      const s = d.sections.map(section => section.map(escapeHtml));
+      const steps = d.steps.map(escapeHtml);
+
+      title.textContent = d.ui[0];
+      back.textContent = d.ui[1];
+      footerLinks[0].textContent = d.ui[2];
+      footerLinks[1].textContent = d.ui[3];
+      footerLinks[2].textContent = d.ui[4];
+      copyright.textContent = '© 2026 NICKSESS Theater. ' + d.ui[5];
+
+      main.innerHTML =
+        '<p><strong>'+labels[0]+'</strong> '+escapeHtml(school)+'</p>'+
+        '<p><strong>'+labels[1]+'</strong> Mykola Kubryakov</p>'+
+        '<p><strong>'+labels[2]+'</strong> NICKSESS Theater</p>'+
+        '<h2>'+s[0][0]+'</h2><p>'+s[0][1]+'</p>'+
+        '<ol>'+
+        '<li>'+steps[0]+' '+requestEmail+'.</li>'+
+        '<li>'+steps[1]+'</li>'+
+        '<li>'+steps[2]+'</li>'+
+        '<li>'+steps[3]+'</li>'+
+        '</ol>'+
+        '<h2>'+s[1][0]+'</h2><p>'+s[1][1]+'</p><p>'+s[1][2]+'</p>'+
+        '<h2>'+s[2][0]+'</h2><p>'+s[2][1]+'</p>'+
+        '<h2>'+s[3][0]+'</h2>'+
+        '<p>'+labels[3]+' '+email+'</p>'+
+        '<p><a href="../privacy/">'+u[6]+'</a></p>';
+      document.title = d.ui[0] + ' | ' + school;
+    } catch (error) {
+      if (current !== revision) return;
+      console.error('Data deletion translation error:', error);
+      picker.value = 'en';
+      document.documentElement.lang = 'en';
+      brand.textContent = names.en;
+      introBrand.textContent = names.en + ' | NICKSESS Theater';
+      footerBrand.textContent = names.en + ' | NICKSESS Theater';
+      localStorage.setItem('emmy-website-language', 'en');
+      english();
+    }
+  }
+
+  picker.addEventListener('change', () => render(picker.value));
+  const stored = localStorage.getItem('emmy-website-language');
+  render(['en','es','de','fr','pt','ja','zh'].includes(stored) ? stored : 'en');
+})();
+</script>
+</body>
 </html>
